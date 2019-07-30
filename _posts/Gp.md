@@ -2,9 +2,9 @@
 title: 'Graph Partition'
 date: 2019-07-29
 permalink: /posts/2019/07/Gp/
-tags:
+<!-- tags:
   - EDA
-  - basic algorithm
+  - category1 -->
 ---
 
 Hold on....
