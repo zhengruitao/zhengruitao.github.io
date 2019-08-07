@@ -26,7 +26,7 @@ Work experience
 
 * Summer 2019: Research Assistant
   * UT-Austin
-  * Duties included: A new heurostic paradigm for graph partition problem
+  * Duties included: A new heurostic paradigm for graph partition problem & quantitize optical nerual network
   * Supervisor: Professor David. Z. Pan
   
 Skills
@@ -37,7 +37,8 @@ Skills
   * Hspice tools
   * Xlinux FPGA developing tools
 * Others
-  * Origin
+  * Origin & Git
+  * learn more for ml
 
 Service and leadership
 ======
