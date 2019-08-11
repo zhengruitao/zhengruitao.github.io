@@ -74,7 +74,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "baidu-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "baidu-analytics" # false (default), "google", "google-universal", "custom"
   baidu:
     tracking_id          : aaf362f1aff88c64d6adb073303c262f
 #  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
