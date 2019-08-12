@@ -74,12 +74,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "baidu-analytics" # false (default), "google", "google-universal", "custom"
-  baidu:
-    tracking_id          : aaf362f1aff88c64d6adb073303c262f
-#  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-#  google:
-#    tracking_id          : UA-144819541-1
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-144819541-1
 
 
 # Site Author
