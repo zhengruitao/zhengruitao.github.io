@@ -1,16 +1,9 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2019
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[用于无线遥感的MEMS薄膜型集成近场天线的研发](http://zhuhanqing.github.io/publications/wireless_antenna)</b> <br> 
+<i>Submitted to "The Journal of Shanghai Jiao Tong University"</i>.
