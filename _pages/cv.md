@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 10/2018 - now: Research Assistant
   * Shanghai Jiao Tong University
   * Duties included: MIMO Detection Algorithms optimizaion
   * Supervisor: Professor Guanghui He
