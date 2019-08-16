@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 <font color="#00FF7F">You can see more details in my CV(PDF version).</font> [Click here to get CV!](http://zhuhanqing.github.io/files/CV_ZHQ.pdf)
 
 <font color="#00FF7F">You can see brief discription of me as follows.</font>
