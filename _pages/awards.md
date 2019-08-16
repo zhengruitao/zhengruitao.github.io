@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 * **Overall GPA Ranking Top 2 out of 57 ([Ranking Certification](http://zhuhanqing.github.io/files/ranking.pdf))** (Sophomore, junior GPA Ranking 1st/57), Department of Microelctronics Science and Technology, Shanghai Jiao Tong University. 2016-2019.
-* **Outstanding undergraduate Scholarship** (Only 5 students in School of Electronic Information and Electrical Engineering were awarded for excellent academic performance among all undergrate students, funded by Fontile Education Fund), Shanghai Jiao Tong University. 2019
+* **Outstanding undergraduate Scholarship**,￥30,000, only 5 students in School of Electronic Information and Electrical Engineering were awarded for excellent academic performance among all undergrate students, fun ded by Fontile Education Fund), Shanghai Jiao Tong University. 2019
 * **The Samsung Scholarship** (Only one students in Microelectronics Science and Technology Department), Shanghai Jiao Tong University. 2018.
 * **Zhiyuan Honors Scholarship** (Top 5%), Zhiyuan College, Shanghai Jiao Tong University. 2016.
 * **Fiirst Prize Scholarship** (Top 2%), Shanghai Jiao Tong University. 2017 & 2018.
