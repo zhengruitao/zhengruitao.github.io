@@ -13,9 +13,11 @@ redirect_from:
 <!-- <embed src="http://zhuhanqing.github.io/files/CV_ZHQ.pdf" width="650" height="1800" type='application/pdf'> -->
 Education
 ======
-* B.S. in Microelectronics, Shanghai Jiao Tong University, 2020(expected)
-* Summer Program for Modern SAP Technology, Peter the Great St. Petersburg Polytechnic University, Russia, Aug 2018- Sept 2018
-* Summer Research Program, University of Texas at Austin, USA, 2019 
+* B.S. in Microelectronics, Shanghai Jiao Tong University, 2020(expected) 
+* Zhiyuan Honors Program of Engineering (an elite program for top 10% students in SJTU)
+* Summer Research Program, supervised by Prof.David Z. Pan in UTDA lab, University of Texas at Austin, USA, 2019 
+* Summer Student Program for Modern SAP Technology, Peter the Great St. Petersburg Polytechnic University, Russia, Aug 2018- Sept 2018
+
 
 Work experience
 ======
@@ -38,7 +40,7 @@ Skills
   * Xlinux FPGA developing tools
 * Others
   * Origin & Git
-  * learn more for ml
+  * learning more for ML
 
 Service and leadership
 ======
