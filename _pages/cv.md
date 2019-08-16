@@ -16,10 +16,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Microelectronics, Shanghai Jiao Tong University, 2020(expected) 
-* Zhiyuan Honors Program of Engineering (an elite program for top 10% students in SJTU)
+* B.S. in Microelectronics, Shanghai Jiao Tong University, 2020(expected)
+  * Zhiyuan Honors Program of Engineering (an elite program for top 10% students in SJTU)
+  * **some selected core courses:** Circuit Theory (94), Probability and Statistics (100, rank 1st), Signals and Systems (95, rank 1st), Design of Digital Integration Circuits (94, rank 1st), Chip Design Methodology for Advanced Logic System (91, rank 1st), Digital Signal Processing (98, rank 1st), Computer Processors and System(89)
 * Summer Research Program, supervised by Prof.David Z. Pan in UTDA lab, University of Texas at Austin, USA, 2019 
 * Summer Student Program for Modern SAP Technology, Peter the Great St. Petersburg Polytechnic University, Russia, Aug 2018- Sept 2018
+
 
 
 Work experience
