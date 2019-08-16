@@ -22,4 +22,4 @@ redirect_from:
 * May.2019. One paper was submmited to "The Journal of Shanghai Jiao Tong University" about wireless antenna design for MEMS as co-author!
 * Jan.2019. Thank Fontile Education Fund for the <font color="#00FF7F"> Outstanding Undergraduate Student Scholarship</font>
  ￥30,000 for excellent academic performance (only 5 undergraduate students in our university)!
-* Sept.2019 Thank Samsung for the Samsung Scholarship!
+* Sept.2018 Thank Samsung for the Samsung Scholarship!
