@@ -25,3 +25,4 @@ redirect_from:
 * Jan.2019. Thank Fontile Education Fund for the <font color="#00FF7F"> Outstanding Undergraduate Student Scholarship</font>
  ￥30,000 for excellent academic performance (only 5 undergraduate students in our university)!
 * Sept.2018. Thank Samsung for the Samsung Scholarship! I am the only one student in our department awared for this honor!
+* A lovely cat join our lab!!!
