@@ -51,7 +51,7 @@ Service and leadership
 ======
 * Siyuan Commonweal Organization: Project Director
   * Took efforts to improve education quality in China’s poorest places with my heart of gratitude as one who also comes from rural and poverty-stricken areas
-  * Be responsible for Summer Rural Teaching Support Volunteer Program in 2018 and select over 110 volunteers who go to 5 schools in Yunan, Gansu, Henan Province
+  * Be responsible for Summer Rural Teaching Support Volunteer Program in 2018 and select over 110 volunteers who go to 5 schools in Yunnan, Gansu, Henan Province
   * Offer free summer class for more than 700 students in all during 2018 summer
 * Eryuan 2nd high school teaching volunteer team : Team member
   * Be awarded with "Color for love" bronze prize of Chinese college students' rural supporting education for extraordinary volunteer performance
