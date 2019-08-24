@@ -1,6 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Awards & Honors"
+excerpt: "zhu hanqing Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
