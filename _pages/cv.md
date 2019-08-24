@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Hanqing Zhu(朱汉卿)"
+excerpt: "zhu hanqing Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
