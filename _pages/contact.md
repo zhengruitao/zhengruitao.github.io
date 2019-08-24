@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Contact"
+excerpt: "zhu hanqing contact information"
 permalink: /contact/
 author_profile: true
 ---
