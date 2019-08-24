@@ -2,6 +2,7 @@
 permalink: /
 title: "About me "
 excerpt: "zhu hanqing"
+description: "This is zhu hanqing's personal website. Thanks for visiting!!!"
 author_profile: true
 redirect_from: 
   - /about/
