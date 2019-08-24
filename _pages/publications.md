@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+excerpt: "zhu hanqing publication"
 permalink: /publications/
 author_profile: true
 ---
