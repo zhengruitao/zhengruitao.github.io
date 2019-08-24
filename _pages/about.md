@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hanqing Zhu(朱汉卿)"
+title: "About me"
 excerpt: "zhu hanqing"
 description: "This is zhu hanqing's personal website. Thanks for visiting!!!"
 author_profile: true
