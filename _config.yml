@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "zhuhanqingmame@sjtu.edu.cn"
+  email            : "taozhengrui@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhuhanqing"
+  github           : "zhengruitao"
   google_plus      :
   keybase          :
-  instagram        : "zhq_sjtu"
+  instagram        : #"zhq_sjtu"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "Zhengrui Tao"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
