@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "zhu hanqing"
-description: "This is zhu hanqing's personal website. Thanks for visiting!!!"
+excerpt: "tao zhengrui"
+description: "This is tao zhengrui's personal website. Thanks for visiting!!!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,15 +10,22 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://zhuhanqing.github.io/images/zhuhanqing-beijing.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
+  <img src="https://zhengruitao.github.io/images/zhuhanqing-beijing.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
   
 </p>
 
 
-* I am a undergraduate student in the [Microelectronics Sicence and Technology Department](http://dmne.sjtu.edu.cn/dmne/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and rank top 2 of 57 students for last three years [Click to View My Ranking Certification [PDF]](http://zhuhanqing.github.io/files/ranking.pdf) and maintain ranking topmost with a GPA 91.65 for recent four semsters!
+* Hi! I am a postgraduate student in the [School of Mechanical engineering](http://me.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). 
+
+I received my B.A. from [School of Naval Architecture and Ocean Engineering](https://liberalarts.utexas.edu/humanities/) at Harbin Institute of Technology, Weihai in 2017(http://me.sjtu.edu.cn/) and ranked top 2 of 157 students for the four years [Click to View My Ranking Certification [PDF]](http://zhengruitao.github.io/files/ranking.pdf) and maintain ranking topmost with a GPA 93.65 for four semsters!
+
 * Click [here](http://zhuhanqing.github.io/files/CV_ZHQ.pdf) to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://zhuhanqing.github.io/contact/).
 * My research intersts mainly lie in the area of Electric Design Automation & Computer Architecture & digital intergrated circuits/VLSI design. 
 * <font color="#dd0000">I am looking for possible PhD research assistant opportunity starting from next year :)  !!!</font>
+Most of 
+
+I’m a disciplinary nomad, integrating disciplines like computer science, information science, social psychology, and organization/management science with fields like philosophy, sociology, anthropology, and history of science and technology. In terms of academic specialties, I spend a lot of my time in the fields of Science and Technology Studies, Computer-Supported Cooperative Work, and new media / internet studies. Methodologically, while I am trained as a qualitative ethnographer, I also rely on other qualitative, quantitative, and computational methods. I often use more statistical forms of analysis to contextualize and further support more qualitative approaches, frequently collaborating with people from other disciplines. I frequently speak at conferences and events, and I also consult with various groups, organizations, and companies about a wide range of topics.
+
 
 # Recent news
 * Jun.2019. I start my internship at [UTDA](https://www.cerc.utexas.edu/utda/), working with [Prof.David Z. Pan](http://www.ece.utexas.edu/people/faculty/david-z-pan), IEEE & SPIE fellow.
