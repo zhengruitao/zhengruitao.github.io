@@ -2,7 +2,7 @@
 <!-- layout: archive -->
 title: "Research"
 excerpt: "Zhengrui tao Research"
-permalink: /Research/
+permalink: /awards/
 author_profile: true
 ---
 Ongoing Research
