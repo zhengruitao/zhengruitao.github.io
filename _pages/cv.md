@@ -10,8 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-<font color="#dd0000">You can see more details in my CV(PDF version).</font> [Click here to get CV!](http://zhuhanqing.github.io/files/CV_TZR.pdf)
-<!-- <embed src="http://zhuhanqing.github.io/files/CV_TZR.pdf" width="650" height="1800" type='application/pdf'> -->
+<font color="#dd0000">You can see more details in my CV(PDF version).</font> [Click here to get CV!](http://zhengruitao.github.io/files/CV_TZR.pdf)
+<!-- <embed src="http://zhengruitao.github.io/files/CV_TZR.pdf" width="650" height="1800" type='application/pdf'> -->
 
 **You can see brief discription of me as follows.**
 
@@ -24,22 +24,18 @@ Education
   * **some selected core courses:** Digital Electronic Technology (94), Analogical　Electronics (99, rank 1st), College Physics (100 & 92), Computer Organization (98, rank 1st), Numerical Control Technology (96), Discrete Mathematics (95, rank 1st), Functions　of　Complex Variables & Integral Transformations (100), Automatic Control Theory (96), Machanics of Materials (98)
 
 
-
-
 Research experience
 ======
 * 09/2018 - Present: Research Assistant
   * Institute of Manufacturing Technology and Equipment Automation, Shanghai Jiao Tong University
   * Duties included: - Tool Condition Monitoring, Prognostics, and Remaining Useful Life Prediction
-                     - Chatter Stability Analysis and Parameter Optimization in the machining process of Impeller
+                     - Chatter Stability Analysis and Parameter Optimization in the Machining Process of Impeller
   * Supervisor: Prof. Qinglong An
-
 * 09/2016 - 07/2017: Research Assistant
   * Institute of Composite Materials and Structure, Harbin Institute of Technology, WEIHAI
   * Duties included: - Analysis and Experimental Study on Contact Characteristics of Aviation Sealing Profile
   * Supervisor: Prof. Jian Wu
-  
-  * 12/2015 - 07/2016: Research Assistant
+* 12/2015 - 07/2016: Research Assistant
   * Institute of Mechanical Manufacturing and Control Engineering, Harbin Institute of Technology, WEIHAI
   * Duties included: - Redundant Motor-Driven Four-bar Point Separation Device
   * Supervisor: Prof. Huiying Liu
