@@ -5,12 +5,12 @@ excerpt: "Zhengrui tao Research"
 permalink: /research/
 author_profile: true
 ---
-<p align="center">
-  <img src="https://zhengruitao.github.io/images/Framework of data-driven model.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
-</p>
 Research Experience
 =====
 **Tool Condition Monitoring, Prognostics, and Remaining Useful Life Prediction**
+<p align="center">
+  <img src="https://zhengruitao.github.io/images/Framework of data-driven model.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
+</p>
 - Developed a novel method based on Long Short-Term Memory network and hidden Markov model (LSTM-HMM) hybrid framework to track the flank wear and predict the remaining useful life of cutting tool during high-speed milling Ti-6Al-4V. 
 
 - Proposed an integrated model that incorporates convolutional neural network (CNN) with stacked bidirectional and unidirectional LSTM (SBULSTM) network, named CNN-SBULSTM, to address sequence data produced in complex surface machining.
