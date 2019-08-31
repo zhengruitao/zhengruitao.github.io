@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://zhengruitao.github.io/images/scene-1.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
+  <img src="https://zhengruitao.github.io/images/taozhengrui_cofer.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
 </p>
 * Hi! I am a Master student at the Manufacturing Technology Lab of the [School of Mechanical Engineering](http://me.sjtu.edu.cn/en/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My research intersts mainly lie in the areas of adaptive control, tool condition monitoring, and chatter vibration detection/suppression modules for milling processes. I am fortunate to be advised by Prof.An Qinglong.
 * Click [here](http://zhuhanqing.github.io/files/CV_ZHQ.pdf) to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://zhuhanqing.github.io/contact/).
@@ -20,9 +20,11 @@ redirect_from:
 
 # Recent news
 * Jun.2019. I start my internship at [UTDA](https://www.cerc.utexas.edu/utda/), working with [Prof.David Z. Pan](http://www.ece.utexas.edu/people/faculty/david-z-pan), IEEE & SPIE fellow.
-* May.2019. One paper was submmited to "The Journal of Shanghai Jiao Tong University" about wireless antenna design for areospace engine as co-author！This journal is indexed by EI.
+* Aug.2019. One paper was accepted to "The Journal of Shanghai Jiao Tong University" about Support Vector Machine Regression for Eddy Current Distance Measurement！This journal is indexed by EI.
+* Jul.2019. One paper was accepted to "The Journal of Zhejiang University (ENGINEERING SCIENCE)" about High-precision calibration method for insulating coating thickness measurement of curved surface！This journal is indexed by EI.
 * Jan.2019. Thank Fontile Education Fund for the <font color="#00FF7F"> Outstanding Undergraduate Student Scholarship</font>
  ￥30,000 for excellent academic performance (only 5 undergraduate students in our university)!
-* Sept.2018. Thank Samsung for the Samsung Scholarship! I am the only one student in our department awared for this honor!
-* Sept.2018. <li>One paper accepted to the 14th China-Japan International Conference on Ultra-Precision Machining Process (CJUMP2018). and won the <b>Best paper award</b> </li>
+* Jan.2019. Thank Sandvik Coromant for the Sandvik Coromant Scholarship! I am one of the six students awared for this honor!
+* Nov.2018. <li>One paper was accepted to the 14th 8th International Conference of High-Speed Machining(ICHSM2018) and honored to receive the <b>Best poster award</b> </li>
+* Sept.2018. <li>One paper was accepted for oral presentation at the 14th China-Japan International Conference on Ultra-Precision Machining Process (CJUMP2018) and honored to receive the <b>Best paper award</b> </li>
 * Sept.2018. Our team RQQST won the <b>first place</b> in <b>Course project showcase & competition</b> of Complex Electromechanical Systems! The project is sponsored by Everwin Precision.
