@@ -11,10 +11,7 @@ redirect_from:
 
 <p align="center">
   <img src="https://zhengruitao.github.io/images/scene-1.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
-  
 </p>
-
-
 * Hi! I am a Master student at the Manufacturing Technology Lab of the [School of Mechanical Engineering](http://me.sjtu.edu.cn/en/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My research intersts mainly lie in the areas of adaptive control, tool condition monitoring, and chatter vibration detection/suppression modules for milling processes. I am fortunate to be advised by Prof.An Qinglong.
 * Click [here](http://zhuhanqing.github.io/files/CV_ZHQ.pdf) to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://zhuhanqing.github.io/contact/).
 * Prior to starting my M.A., I received my B.A. in Mechanical Engineering from [Harbin Institute of Technology, Weihai](http://en.hitwh.edu.cn/) in 2017 and ranked top 2 of 157 students for the four years [Click to View My Ranking Certification [PDF]](http://zhengruitao.github.io/files/ranking.pdf) and maintained ranking topmost with a GPA 93.65 for four semsters!
@@ -27,4 +24,5 @@ redirect_from:
 * Jan.2019. Thank Fontile Education Fund for the <font color="#00FF7F"> Outstanding Undergraduate Student Scholarship</font>
  ￥30,000 for excellent academic performance (only 5 undergraduate students in our university)!
 * Sept.2018. Thank Samsung for the Samsung Scholarship! I am the only one student in our department awared for this honor!
-* Sept.2018. Our team RQQST won the <b>first place</b> in <b>Course project showcase & competition</b> of Complex Electromechanical systems 2018! The project is sponsored by Everwin Precision.
+* Sept.2018. <li>One paper accepted to the 14th China-Japan International Conference on Ultra-Precision Machining Process (CJUMP2018). and won the <b>Best paper award</b> </li>
+* Sept.2018. Our team RQQST won the <b>first place</b> in <b>Course project showcase & competition</b> of Complex Electromechanical Systems! The project is sponsored by Everwin Precision.
