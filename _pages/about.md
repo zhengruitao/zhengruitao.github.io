@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://zhengruitao.github.io/images/taozhengrui_cofer.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
+  <img src="https://zhengruitao.github.io/images/taozhengrui_cofer.jpg raw=true" alt="Photo" style="width: 720px;"/> 
   
 </p>
 
