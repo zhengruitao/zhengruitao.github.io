@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://zhengruitao.github.io/images/taozhengrui_confer.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
+  <img src="https://zhengruitao.github.io/images/taozhengrui_cofer.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
   
 </p>
 
@@ -27,5 +27,4 @@ redirect_from:
 * Jan.2019. Thank Fontile Education Fund for the <font color="#00FF7F"> Outstanding Undergraduate Student Scholarship</font>
  ￥30,000 for excellent academic performance (only 5 undergraduate students in our university)!
 * Sept.2018. Thank Samsung for the Samsung Scholarship! I am the only one student in our department awared for this honor!
-* Sept.2018. Thank Samsung for the Samsung Scholarship! I am the only one student in our department awared for this honor!
-Our team RQQST won the <b>first place</b> in <b>Course project showcase & competition</b> of Complex Electromechanical systems 2018</a>! The project is sponsored by Everwin Precision.</li>
+* Sept.2018. Our team RQQST won the <b>first place</b> in <b>Course project showcase & competition</b> of Complex Electromechanical systems 2018! The project is sponsored by Everwin Precision.
