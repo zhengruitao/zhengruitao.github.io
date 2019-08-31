@@ -7,9 +7,9 @@ author_profile: true
 ---
 Research Experience
 =====
-**Tool Condition Monitoring, Prognostics, and Remaining Useful Life Prediction**
+* **Tool Condition Monitoring, Prognostics, and Remaining Useful Life Prediction**
 <p align="center">
-  <img src="https://zhengruitao.github.io/images/Framework of data-driven model.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
+  <img src="https://zhengruitao.github.io/images/Framework of data-driven model.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 - Developed a novel method based on Long Short-Term Memory network and hidden Markov model (LSTM-HMM) hybrid framework to track the flank wear and predict the remaining useful life of cutting tool during high-speed milling Ti-6Al-4V. 
 
