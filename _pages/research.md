@@ -2,10 +2,14 @@
 <!-- layout: archive -->
 title: "Research"
 excerpt: "Zhengrui tao Research"
-permalink: /awards/
+permalink: /research/
 author_profile: true
 ---
-Ongoing Research
+<p align="center">
+  <img src="https://zhengruitao.github.io/images/scene-2.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
+</p>
+
+Research Experience
 =====
 
 * **Overall GPA Ranking Top 2 out of 157 ([Ranking Certification](http://zhuhanqing.github.io/files/ranking.pdf))** (Sophomore, junior GPA Ranking 1st/57), Department of Microelctronics Science and Technology, Shanghai Jiao Tong University. 2016-2019.
@@ -18,3 +22,6 @@ Ongoing Research
 * **Full Scholarship for Summer School of SPbPU** (Only Two Students from C9 Universities in China) Peter the Great St. Petersburg Polytechnic University, Russia. 2018.
 * **First Prize** in China Undergraduate Mathematical Contest in Modeling, Shanghai Division. 2018
 * **"Color for love" bronze prize of Chinese college students' rural supporting education**, Nationalwide 2017
+
+SELECTED PROJECT EXPERIENCE
+=====
