@@ -1,10 +1,11 @@
 ---
 <!-- layout: archive -->
-title: "Awards & Honors"
-excerpt: "Zhengrui tao Awards & Honors"
-permalink: /awards/
+title: "Research"
+excerpt: "Zhengrui tao Research"
+permalink: /Research/
 author_profile: true
 ---
+Ongoing Research
 * **Overall GPA Ranking Top 2 out of 157 ([Ranking Certification](http://zhuhanqing.github.io/files/ranking.pdf))** (Sophomore, junior GPA Ranking 1st/57), Department of Microelctronics Science and Technology, Shanghai Jiao Tong University. 2016-2019.
 * **Outstanding undergraduate Scholarship**,￥30,000, only 5 students in School of Electronic Information and Electrical Engineering were awarded for excellent academic performance among all undergraduate students, fun ded by Fontile Education Fund), Shanghai Jiao Tong University. 2019
 * **The Samsung Scholarship** (Only one students in Microelectronics Science and Technology Department), Shanghai Jiao Tong University. 2018.
