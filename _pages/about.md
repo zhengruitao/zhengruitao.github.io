@@ -19,7 +19,7 @@ redirect_from:
 * I’m a disciplinary nomad, integrating disciplines like computer science, information science with fields like maufacturing technology, composite material structure. In terms of academic specialties, I spend a lot of my time in the fields of Science and Technology Studies, Computer-Supported Cooperative Work, and Machining Experiments. Methodologically, while I am trained as a experimental engineer, I also rely on other qualitative, quantitative, and computational methods. I often use more statistical forms of analysis to contextualize and further support more qualitative approaches, frequently collaborating with people from other disciplines. I frequently speak at conferences and events, and I also consult with various groups, organizations, and companies about a wide range of topics.
 
 # Recent news
-* Aug.2019. One paper submitted to "the International Journal of Advanced Manufacturing Technology" was revised waitting for the fianl decision.
+* Aug.2019. One paper submitted to "the International Journal of Advanced Manufacturing Technology" was revised and awaitting for the fianl decision.
 * Aug.2019. One paper was accepted to "The Journal of Zhejiang University (ENGINEERING SCIENCE)" about High-precision calibration method for insulating coating thickness measurement of curved surface! This journal is indexed by EI.
 * Jul.2019. One paper was accepted to "The Journal of Shanghai Jiao Tong University" about Support Vector Machine Regression for Eddy Current Distance Measurement! This journal is indexed by EI.
 * Jun.2019. One paper was submmited to "The Measurement"(Q1) about tool remaining useful life prediction!
