@@ -1,0 +1,11 @@
+---
+title: "Tool Remaining Useful Life Prediction Based on Convolutional Neural Network-Stacked Bidirectional and Unidirectional LSTM Network Hybrid Model"
+collection: publications
+excerpt: 'This paper is submitted to Measurement.'
+permalink: /publications/Measurement
+date: 2019-6-21
+---
+* ***Current Status: Under Review***
+
+## Abstract
+In modern manufacturing systems, the performance of the cutting tool is crucial to generate a high-quality machined surface. A worn tool deforms the surface to a greater depth, tears the surface and lowers the fatigue resistance. Besides, higher cutting temperature from more friction which in turn results in faster wear rate. Excessive protection strategy is adopted commonly in manufacturing industries, tool replacement is conducted too early before reaching the failure point without any theoretical basis. Besides, substantial waste of remaining useful life (RUL) and unnecessary downtime are caused. Thus, more and more studies have been conducted to develop effective tool RUL prediction systems. In recent years, deep learning has developed rapidly and is becoming increasingly popular, the representation learning from raw sensor signals has been redefined. This paper introduces an integrated model that incorporates convolutional neural network (CNN) with stacked bidirectional and unidirectional LSTM (SBULSTM) network, named CNN-SBULSTM, to address sequence data. In CNN-SBULSTM network, CNN is firstly utilized for local features extraction and dimension reduction. Then SBULSTM network is designed to denoise and encode the temporal information which consists of past and future contexts of each time step, long-term dependencies in local features. Finally, multiple fully connected layers are built on the top of the CNN-SBULSTM network to add non-linearity to the output and one regression layer is utilized to generate the target RUL. The cyber-physical system (CPS) is utilized to collect the internal controller signals and the external sensor signals. The collected sensor data is then used to verify the validity and feasibility of the proposed model. The experimental results indicate that our model is applicable to track the tool wear evolution and predict its RUL.
