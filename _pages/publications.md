@@ -27,10 +27,13 @@ Qinglong An, Jie Chen, <b>Zhengrui Tao</b>, Weiwei Ming, Ming Chen <br>
 <i>Submitted to "the  International Journal of Refractory Metals and Hard Materials"</i>
 
 ## Conferences
-<b>[- Cutting Performance Evaluation of Helical Milling Specialized Tool for CFRP/Titanium Alloy](http://zhengruitao.github.io/publications/CJUMP)</b> <br> 
+<b>- Cutting Performance Evaluation of Helical Milling Specialized Tool for CFRP/Titanium Alloy</b><br>
+<b>[Presentation](http://zhengruitao.github.io/files/CJUMP_Slide.pdf)</b><br> 
 <b>Tao Zhengrui</b>, An Qinglong, Chen Ming <br>
 <i>14th CJUMP Conference</i>, Harbin, China, Sep 13-15, 2018
 
-<b>[- Hierarchical Dirichlet Process Hidden Semi-Markov Model-based Method for Tool Wear Estimation in High-Speed Milling Ti-6Al-4V](http://zhengruitao.github.io/publications/ICHSM)</b> <br> 
+<b>[- Hierarchical Dirichlet Process Hidden Semi-Markov Model-based Method for Tool Wear Estimation in High-Speed Milling Ti-6Al-4V]</b><br>
+<b>[Presentation](http://zhengruitao.github.io/files/ICHSM_Slide.pdf)[Poster](http://zhengruitao.github.io/files/ICHSM_Poster.pdf)</b>
+<br>
 <b>Tao Zhengrui</b>, An Qinglong, Chen Ming <br>
 <i>8th ICHSM Conference</i>, Guangzhou, China, Nov 7-11, 2018
