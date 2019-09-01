@@ -3,7 +3,7 @@ title: "《曲面基体绝缘涂镀层涡流测厚高精度标定方法》"
 collection: publications
 excerpt: 'This paper is submitted to "The Journal of Zhejiang University(Engineeering Science)".'
 permalink: /publications/thickness_measurement
-date: 2019-6-1
+date: 2019-8-31
 ---
 
 ## Abstract
