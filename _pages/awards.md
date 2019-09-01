@@ -7,7 +7,7 @@ author_profile: true
 ---
 * <font color="#660000">***Tool Condition Monitoring, Prognostics, and Remaining Useful Life Prediction </font>***
 <p align="center"><img src="https://zhengruitao.github.io/images/Framework of data-driven model.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
-   -Developed a novel method based on [Long Short-Term Memory network](http://zhengruitao.github.io/images/typical_LSTM.jpg) and [hidden Markov model](http://zhengruitao.github.io/images/GMM-HMM.jpg) (LSTM-HMM) hybrid framework to track the flank wear and predict the remaining useful life of cutting tool during high-speed milling Ti-6Al-4V. 
+   -<font style="font-family:Times New Roman">Developed a novel method based on [Long Short-Term Memory network](http://zhengruitao.github.io/images/typical_LSTM.jpg) and [hidden Markov model](http://zhengruitao.github.io/images/GMM-HMM.jpg) (LSTM-HMM) hybrid framework to track the flank wear and predict the remaining useful life of cutting tool during high-speed milling Ti-6Al-4V.</font> 
 <p align="center">
   <img src="https://zhengruitao.github.io/images/LSTM-HMM-scheme.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
