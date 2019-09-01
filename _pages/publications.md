@@ -1,10 +1,21 @@
 ---
 title: "Publications"
-excerpt: "zhu hanqing publication"
+excerpt: "tao zhengrui publication"
 permalink: /publications/
 author_profile: true
 ---
 ## 2019
 
-<b>[用于无线遥感的MEMS薄膜型集成近场天线的研发(The integrated antenna design on turbine blade surface for MEMS)](http://zhuhanqing.github.io/publications/wireless_antenna)</b> <br> 
-<i>Submitted to "The Journal of Shanghai Jiao Tong University" 2019</i>.
+<b>[- A Novel Method for Tool Condition Monitoring Based on Long Short-Term Memory and Hidden Markov Model Hybrid Framework in High-Speed Milling Ti-6Al-4V (Reviews Completed)](http://zhuhanqing.github.io/publications/AMT)</b> <br> 
+<b>Tao Zhengrui</b>, Qinglong An, Gongyu Liu, Ming Chen <br> 
+<i>Submitted to "the International Journal of Advanced Manufacturing Technology"</i> <br> 
+<b>[- Tool Remaining Useful Life Prediction Based on Convolutional Neural Network-Stacked Bidirectional and Unidirectional LSTM Network Hybrid Model (Under Review)](http://zhuhanqing.github.io/publications/Measurement)</b> <br> 
+Qinglong An&, <b>Zhengrui Tao<sup>&</sup></b>, Jie Chen, Meng Hu, Ming Chen (&co-first authors)
+<i>Submitted to "the International Journal of Advanced Manufacturing Technology"</i> <br> 
+
+<b>[- 曲面基体绝缘涂镀层涡流测厚高精度标定方法(High-precision calibration method for insulating coating thickness measurement of curved surface based on eddy current)](http://zhuhanqing.github.io/publications/thickness_measurement)</b> <br> 
+<b>Tao Zhengrui</b>, Dang Jiaqiang, Xu Jingyang, An Qinglong, Chen Ming, Ren Fei, Wang Li <br> 
+<i>Accepted to "The Journal of Zhejiang University(Engineeering Science)"</i> <br> 
+<b>[- 基于支持向量机回归的曲面零件涡流测距标定方法(Eddy Current Distance Measurement Calibration Method for Curved Surface Parts Based on Support Vector Machine Regression)](http://zhuhanqing.github.io/publications/distance_measurement)</b> <br> 
+<b>Tao Zhengrui</b>, Dang Jiaqiang, Xu Jingyang, An Qinglong, Chen Ming, Wang Li, Ren Fei <br> 
+<i>Accepted to "The Journal of Shanghai Jiaotong University(Engineeering Science)"</i> <br> 
