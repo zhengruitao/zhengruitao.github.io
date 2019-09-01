@@ -5,7 +5,7 @@ excerpt: "Zhengrui tao Research"
 permalink: /research/
 author_profile: true
 ---
-* ***<font color="#660000">Tool Condition Monitoring, Prognostics, and Remaining Useful Life Prediction</font>***
+* <font color="#660000">Tool Condition Monitoring, Prognostics, and Remaining Useful Life Prediction</font>
 <p align="center">
   <img src="https://zhengruitao.github.io/images/Framework of data-driven model.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
