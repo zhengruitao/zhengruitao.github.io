@@ -22,9 +22,8 @@ author_profile: true
   <img src="https://zhengruitao.github.io/images/thesis_framework.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
   -The [Milling Time-Domain Simulation with Straight Teeth](http://zhengruitao.github.io/images/force_simulation.jpg) and [Stability Lobe Diagrams](http://zhengruitao.github.io/images/GMM-HMM.jpg) (LSTM-HMM) hybrid framework to track the flank wear and predict the remaining useful life of cutting tool during high-speed milling Ti-6Al-4V. 
-  -Ball Milling Time-Domain Simulation with Helical Teeth\\
-* ***Analysis and Experimental Study on Contact Characteristics of Aviation Sealing Profile***\\
-  
+  -Ball Milling Time-Domain Simulation with Helical Teeth <br />
+* ***Analysis and Experimental Study on Contact Characteristics of Aviation Sealing Profile***<br />
   -Study on the macroscopic contact characteristics of sealing profiles by establishing a [finite element model](http://zhengruitao.github.io/images/compress_in_depth.jpg) of a typical profiled section seal profile
   
   
