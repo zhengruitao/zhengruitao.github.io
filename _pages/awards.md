@@ -21,14 +21,9 @@ author_profile: true
 </p>
   -Obtained the cutter-workpiece engagement area using geometric simulation and established the milling force model.<br>
   -The analytical regenerative chatter prediction model was presented and the time/frequency domain solutions were utilized to obtain [Stability Lobe Diagrams(SLD](http://zhengruitao.github.io/images/SLD.jpg).<br>
-  - With constant cutting force machining as the optimization target, considering the machining stability, cutting force, torque and machine power constraints, a single-objective optimization model is established, the feedrate is optimized by segments, and the smoothness of the machining process and the machining efficiency are improved. [<font color="#660000">[More details]</font>]
-
-  
-  -Ball Milling Time-Domain Simulation with Helical Teeth <br />
-  
-  
-  
-* ***<font color="#660000">Analysis and Experimental Study on Contact Characteristics of Aviation Sealing Profile</font>*** <br />
+  - With constant cutting force machining as the optimization target, considering the machining stability, cutting force, torque and machine power constraints, a single-objective optimization model is established, the feedrate is optimized by segments, and the smoothness of the machining process and the machining efficiency are improved.<br>
+  <font color="#660000"><b>[[More details]](http://zhengruitao.github.io/files/Optimization_Slide.pptx)</b></font><br>
+* ***<font color="#660000">Analysis and Experimental Study on Contact Characteristics of Aviation Sealing Profile</font>*** <br>
   -Study on the macroscopic contact characteristics of sealing profiles by establishing a [finite element model](http://zhengruitao.github.io/images/compress_in_depth.jpg) of a typical profiled section seal profile
   
   
