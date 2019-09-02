@@ -5,11 +5,26 @@ excerpt: "Zhengrui tao honors"
 permalink: /honors/
 author_profile: true
 ---
+
+* ***<font color="#660000">The Best Paper Award of 14th China-Japan International Conference on Ultra-Precision Machining Process </font>***
+<p align="center">
+   <img src="https://zhengruitao.github.io/images/best_paper.jpg?raw=true" alt="Photo" style="width: 800px;"/>
+</p>
+* ***<font color="#660000">The Best Paper Award of 14th China-Japan International Conference on Ultra-Precision Machining Process </font>***
+<p align="center">
+   <img src="https://zhengruitao.github.io/images/best_paper.jpg?raw=true" alt="Photo" style="width: 800px;"/>
+</p>
+
+
+
 * **Overall GPA Ranking Top 2 out of 57 ([Ranking Certification](http://zhuhanqing.github.io/files/ranking.pdf))** (Sophomore, junior GPA Ranking 1st/57), Department of Microelctronics Science and Technology, Shanghai Jiao Tong University. 2016-2019.
+
 * **Outstanding undergraduate Scholarship**,￥30,000, only 5 students in School of Electronic Information and Electrical Engineering were awarded for excellent academic performance among all undergraduate students, fun ded by Fontile Education Fund), Shanghai Jiao Tong University. 2019
+
 * **The Samsung Scholarship** (Only one students in Microelectronics Science and Technology Department), Shanghai Jiao Tong University. 2018.
+
 * **Zhiyuan Honors Scholarship** (Top 5%), Zhiyuan College, Shanghai Jiao Tong University. 2016.
-* **Fiirst Prize Scholarship** (Top 2%), Shanghai Jiao Tong University. 2017 & 2018.
+* **First Prize Scholarship** (Top 2%), Shanghai Jiao Tong University. 2017 & 2018.
 * **Excellent league cadre of Shanghai Jiao Tong University** Shanghai Jiao Tong University. 2019.
 * **Scholarship for Academic Progress** Shanghai Jiao Tong University. 2018.
 * **Full Scholarship for Summer School of SPbPU** (Only Two Students from C9 Universities in China) Peter the Great St. Petersburg Polytechnic University, Russia. 2018.
