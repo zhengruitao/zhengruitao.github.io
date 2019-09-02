@@ -28,6 +28,6 @@ author_profile: true
 ## Selected Project
 * ***<font color="#660000">The Design of Separation Device Using Redundant Motors Basing on Two-sectional Segmented Nut</font>***
 
-* ***<font color="#660000">The Design of Flexible Grinding End-actuator for Insulation Layer of Cryogenic Storage Tank and Research on Grinding Process Technology</font>***
-  -Developed a end-actuator to grind the insulation layer of cryogenic storage tank and implemented the control system based on C++.
-  -Introdeuced the process and resolution to tackle these problems on grinding technology for 
+* ***<font color="#660000">The Design of Flexible Grinding End-actuator for Insulation Layer of Cryogenic Storage Tank and Research on Grinding Process Technology</font>***<br>
+  -Developed a end-actuator to grind the insulation layer of cryogenic storage tank and implemented the control system based on C++.<br>
+  -Introdeuced the process and resolution to tackle these problems on grinding technology for  [<b>More details</b>](http://zhengruitao.github.io/files/End_effector_Slide.pdf)<br>
