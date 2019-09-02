@@ -18,10 +18,10 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
- - title: "Awards&Honors"
-     url: /year-archive/
  # - title: "Awards&Honors"
-   # url: /honors/
+  #   url: /year-archive/
+  - title: "Awards&Honors"
+    url: /honors/
     
   - title: "Contact"
     url: /contact/
