@@ -9,6 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Awards&Honors"
+    url: /honors/
   # - title: "Talks"
   #  url: /talks/    
 
@@ -19,10 +21,7 @@ main:
   #  url: /portfolio/
         
  # - title: "Awards&Honors"
-  #   url: /year-archive/
-  - title: "Awards&Honors"
-    url: /honors/
-    
+  #   url: /year-archive/  
   - title: "Contact"
     url: /contact/
   # - title: "Guide"
