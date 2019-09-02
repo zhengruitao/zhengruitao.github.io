@@ -8,15 +8,16 @@ permalink: /honors/
 author_profile: true
 ---
 
-* ***<font color="#660000">The Best Paper Award of 14th China-Japan International Conference on Ultra-Precision Machining Process </font>***
+* ***<font color="#660000">The Best Poster Award of 8th International Conference of High-Speed Machining</font>***
 <p align="center">
-   <img src="https://zhengruitao.github.io/images/best_paper.jpg?raw=true" alt="Photo" style="width: 800px;"/>
+   <img src="https://zhengruitao.github.io/images/best_poster.jpg?raw=true" alt="Photo" style="width: 800px;"/>
 </p>
 * ***<font color="#660000">The Best Paper Award of 14th China-Japan International Conference on Ultra-Precision Machining Process </font>***
 <p align="center">
    <img src="https://zhengruitao.github.io/images/best_paper.jpg?raw=true" alt="Photo" style="width: 800px;"/>
 </p>
 
+* ***<font color="#660000">National Endeavor Scholarship </font>***
 
 
 * **Overall GPA Ranking Top 2 out of 57 ([Ranking Certification](http://zhuhanqing.github.io/files/ranking.pdf))** (Sophomore, junior GPA Ranking 1st/57), Department of Microelctronics Science and Technology, Shanghai Jiao Tong University. 2016-2019.
