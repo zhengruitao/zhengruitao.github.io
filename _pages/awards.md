@@ -2,7 +2,7 @@
 <!-- layout: archive -->
 title: "Research Experience"
 excerpt: "Zhengrui tao Research"
-permalink: /research/
+permalink: /honors/
 author_profile: true
 ---
 * ***<font color="#660000">Tool Condition Monitoring, Prognostics, and Remaining Useful Life Prediction</font>***
