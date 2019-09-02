@@ -18,8 +18,10 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog"
-    url: /year-archive/
+  #- title: "Blog"
+  #  url: /year-archive/
+ - title: "Awards&Honors"
+    url: /Awards&Honors/
     
   - title: "Contact"
     url: /contact/
