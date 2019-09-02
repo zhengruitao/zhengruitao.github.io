@@ -2,7 +2,7 @@
 <!-- layout: archive -->
 title: "Awards&Honors"
 excerpt: "Zhengrui tao honors"
-permalink: /Honors/
+permalink: /honors/
 author_profile: true
 ---
 * **Overall GPA Ranking Top 2 out of 57 ([Ranking Certification](http://zhuhanqing.github.io/files/ranking.pdf))** (Sophomore, junior GPA Ranking 1st/57), Department of Microelctronics Science and Technology, Shanghai Jiao Tong University. 2016-2019.
