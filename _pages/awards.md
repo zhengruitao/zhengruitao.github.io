@@ -22,7 +22,7 @@ author_profile: true
   -Obtained the cutter-workpiece engagement area using geometric simulation and established the milling force model.<br>
   -The analytical regenerative chatter prediction model was presented and the time/frequency domain solutions were utilized to obtain [Stability Lobe Diagrams(SLD)](http://zhengruitao.github.io/images/SLD.jpg).<br>
   - With constant cutting force machining as the optimization target, considering the machining stability, cutting force, torque and machine power constraints, a single-objective optimization model is established, the feedrate is optimized by segments, and the smoothness of the machining process and the machining efficiency are improved.<br>
-<b> [[More details](http://zhengruitao.github.io/files/Optimization_Slide.pdf)]</b>
+ [<b>More details</b>](http://zhengruitao.github.io/files/Optimization_Slide.pdf)
 
  
 * ***<font color="#660000">Analysis and Experimental Study on Contact Characteristics of Aviation Sealing Profile</font>*** <br>
