@@ -17,7 +17,7 @@ author_profile: true
 </p>  
 * ***<font color="#660000">Chatter Stability Analysis and Feedrate Optimization in the milling process</font>***
 <p align="center">
-  <img src="https://zhengruitao.github.io/images/thesis_framework.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://zhengruitao.github.io/images/thesis_framework.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
   -Obtained the cutter-workpiece engagement area using geometric simulation and established the milling force model.<br>
   -The analytical regenerative chatter prediction model was presented and the time/frequency domain solutions were utilized to obtain [Stability Lobe Diagrams(SLD)](http://zhengruitao.github.io/images/SLD.jpg).<br>
