@@ -2,7 +2,7 @@
 <!-- layout: archive -->
 title: "Awards&Honors"
 excerpt: "Zhengrui tao honors"
-permalink: /honors/
+permalink: /honors1/
 author_profile: true
 ---
 
