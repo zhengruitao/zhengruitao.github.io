@@ -3,8 +3,6 @@
 title: "Awards&Honors"
 excerpt: "Zhengrui tao honors"
 permalink: /honors/
-
-
 author_profile: true
 ---
 * ***<font color="#660000">The Sandvik Coromant Scholarship</font>***<font color="#660000">, School of Mechanical Engineering, Shanghai Jiao Tong University, 2018</font>
