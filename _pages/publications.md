@@ -24,7 +24,19 @@ Qinglong An<sup>&</sup>, <b>Zhengrui Tao<sup>&</sup></b>, Jie Chen, Meng Hu, Min
 
 <b>[- Experimental investigation on tool wear characteristics of PVD and CVD coatings during face milling of Ti-6242S and Ti-555 titanium alloys (Under Review)](http://zhengruitao.github.io/publications/RMHM)</b> <br> 
 Qinglong An, Jie Chen, <b>Zhengrui Tao</b>, Weiwei Ming, Ming Chen <br>
-<i>Submitted to "the  International Journal of Refractory Metals and Hard Materials"</i>
+<i>Submitted to "the International Journal of Refractory Metals and Hard Materials"</i>
+
+<b>[- Experimental and Finite Element Analysis of the Formation Mechanism of Serrated Chips of Nickel-based Superalloy Inconel 718  (Under Review)](http://zhengruitao.github.io/publications/lijunli_AMT)</b> <br> 
+Qinglong An, Jie Chen, <b>Zhengrui Tao</b>, Weiwei Ming, Ming Chen <br>
+Junli Li, <b>Zhengrui Tao</b>, Xiaojiang Cai, Qinglong An, Ming Chen
+<i>Submitted to "the International Advanced Manufacturing Technology"</i>
+
+<b>[- Experimental study on the cooling/lubrication performance of dry and supercritical CO2-based minimum quantity lubrication in peripheral milling Ti-6Al-4V (Under Review)](http://zhengruitao.github.io/publications/JPET)</b> <br> 
+Qinglong An, Jie Chen, <b>Zhengrui Tao</b>, Weiwei Ming, Ming Chen <br>
+Junli Li, <b>Zhengrui Tao</b>, Xiaojiang Cai, Qinglong An, Ming Chen
+Chongyan Cai, Xu Liang, Qinglong An, Zhengrui Tao, Weiwei Ming, Ming Chen
+<i>Submitted to "the International Journal of Precision Engineering and Manufacturing-Green Technology"</i>
+
 
 ## Conferences
 <b>- Cutting Performance Evaluation of Helical Milling Specialized Tool for CFRP/Titanium Alloy</b><br>
