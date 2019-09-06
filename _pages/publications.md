@@ -44,7 +44,7 @@ Chongyan Cai, Xu Liang, Qinglong An, Zhengrui Tao, Weiwei Ming, Ming Chen
 <b>Tao Zhengrui</b>, An Qinglong, Chen Ming <br>
 <i>14th CJUMP Conference</i>, Harbin, China, Sep 13-15, 2018</i>
 
-<b>[- Hierarchical Dirichlet Process Hidden Semi-Markov Model-based Method for Tool Wear Estimation in High-Speed Milling Ti-6Al-4V]</b><br>
+<b>- Hierarchical Dirichlet Process Hidden Semi-Markov Model-based Method for Tool Wear Estimation in High-Speed Milling Ti-6Al-4V</b><br>
 <b>[[Presentation]](http://zhengruitao.github.io/files/ICHSM_Slide.pdf) [[Poster]](http://zhengruitao.github.io/files/ICHSM_Poster.pdf)</b>
 <br>
 <b>Tao Zhengrui</b>, Liu Gongyu, An Qinglong, Chen Ming <br>
