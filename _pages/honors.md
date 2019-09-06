@@ -8,11 +8,11 @@ author_profile: true
 * ***<font color="#660000">The Sandvik Coromant Scholarship</font>***<font color="#660000">, School of Mechanical Engineering, Shanghai Jiao Tong University, 2018</font>
 * ***<font color="#660000">The Best Poster Award of 8th International Conference of High-Speed Machining</font>***
 <p align="center">
-   <img src="https://zhengruitao.github.io/images/best_poster.pdf?raw=true" alt="Photo" style="width: 800px;"/>
+   <img src="https://zhengruitao.github.io/files/best_poster.pdf?raw=true" alt="Photo" style="width: 800px;"/>
 </p>
 * ***<font color="#660000">The Best Paper Award of 14th China-Japan International Conference on Ultra-Precision Machining Process </font>***
 <p align="center">
-   <img src="https://zhengruitao.github.io/images/best_paper.pdf?raw=true" alt="Photo" style="width: 800px;"/>
+   <img src="https://zhengruitao.github.io/files/best_paper.pdf?raw=true" alt="Photo" style="width: 800px;"/>
 </p>
 * ***<font color="#660000">First Prize</font>*** <font color="#660000">in the Graduate Course project showcase & competition of Complex Electromechanical Systems, Shanghai Jiao Tong University, 2018</font><br>
 * ***<font color="#660000">Outstanding Graduates</font>***<font color="#660000">, Shandong Province, 2017</font><br>
