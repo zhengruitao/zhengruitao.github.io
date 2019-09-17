@@ -26,7 +26,7 @@ Qinglong An, Jie Chen, <b>Zhengrui Tao</b>, Weiwei Ming, Ming Chen <br>
 Qinglong An<sup>&</sup>, <b>Zhengrui Tao<sup>&</sup></b>, Jie Chen, Meng Hu, Ming Chen (<sup>&</sup>co-first authors) <br>
 <i>Submitted to "the International Journal of Advanced Manufacturing Technology"</i>
 
-<b>[- Experimental and Finite Element Analysis of the Formation Mechanism of Serrated Chips of Nickel-based Superalloy Inconel 718  (Under Review)](http://zhengruitao.github.io/publications/lijunli_AMT)</b> <br>  
+<b>[- Experimental and Finite Element Analysis of the Formation Mechanism of Serrated Chips of Nickel-based Superalloy Inconel 718  (Under Review)](http://zhengruitao.github.io/publications/lijunli_AMT)</b> <br>
 Junli Li, <b>Zhengrui Tao</b>, Xiaojiang Cai, Qinglong An, Ming Chen <br>
 <i>Submitted to "the International Advanced Manufacturing Technology"</i>
 
