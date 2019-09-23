@@ -4,7 +4,6 @@ excerpt: "tao zhengrui publication"
 permalink: /publications/
 author_profile: true
 ---
-You can also browse my Google Scholar profile.
 ## Journals
 <b>[- A Novel Method for Tool Condition Monitoring Based on Long Short-Term Memory and Hidden Markov Model Hybrid Framework in High-Speed Milling Ti-6Al-4V (Reviews Completed)](http://zhengruitao.github.io/publications/AMT)</b> <br> 
 <b>Tao Zhengrui</b>, Qinglong An, Gongyu Liu, Ming Chen <br> 
