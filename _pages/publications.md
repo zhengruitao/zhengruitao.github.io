@@ -6,6 +6,10 @@ author_profile: true
 ---
 You can also browse my Google Scholar profile.
 ## Journals
+<b>[- A Novel Method for Tool Condition Monitoring Based on Long Short-Term Memory and Hidden Markov Model Hybrid Framework in High-Speed Milling Ti-6Al-4V (Reviews Completed)](http://zhengruitao.github.io/publications/AMT)</b> <br> 
+<b>Tao Zhengrui</b>, Qinglong An, Gongyu Liu, Ming Chen <br> 
+<i>Submitted to "the International Journal of Advanced Manufacturing Technology"</i> 
+
 <b>[- 曲面基体绝缘涂镀层涡流测厚高精度标定方法(High-precision calibration method for insulating coating thickness measurement of curved surface based on eddy current)](http://zhengruitao.github.io/publications/thickness_measurement)</b> <br> 
 <b>Tao Zhengrui</b>, Dang Jiaqiang, Xu Jingyang, An Qinglong, Chen Ming, Ren Fei, Wang Li <br> 
 <i>Accepted to "The Journal of Zhejiang University(Engineeering Science)"</i>
@@ -18,10 +22,6 @@ You can also browse my Google Scholar profile.
 Qinglong An, Jie Chen, <b>Zhengrui Tao</b>, Weiwei Ming, Ming Chen <br>
 <i>Accepted to "the International Journal of Refractory Metals and Hard Materials"</i>
 
-<b>[- A Novel Method for Tool Condition Monitoring Based on Long Short-Term Memory and Hidden Markov Model Hybrid Framework in High-Speed Milling Ti-6Al-4V (Reviews Completed)](http://zhengruitao.github.io/publications/AMT)</b> <br> 
-<b>Tao Zhengrui</b>, Qinglong An, Gongyu Liu, Ming Chen <br> 
-<i>Submitted to "the International Journal of Advanced Manufacturing Technology"</i> 
-
 <b>[- Tool Remaining Useful Life Prediction Based on Convolutional Neural Network-Stacked Bidirectional and Unidirectional LSTM Network Hybrid Model (Under Review)](http://zhengruitao.github.io/publications/Measurement)</b> <br> 
 Qinglong An<sup>&</sup>, <b>Zhengrui Tao<sup>&</sup></b>, Jie Chen, Meng Hu, Ming Chen (<sup>&</sup>co-first authors) <br>
 <i>Submitted to "the International Journal of Advanced Manufacturing Technology"</i>
@@ -31,7 +31,7 @@ Junli Li, <b>Zhengrui Tao</b>, Xiaojiang Cai, Qinglong An, Ming Chen <br>
 <i>Submitted to "the International Advanced Manufacturing Technology"</i>
 
 <b>[- Experimental study on the cooling/lubrication performance of dry and supercritical CO2-based minimum quantity lubrication in peripheral milling Ti-6Al-4V (Under Review)](http://zhengruitao.github.io/publications/JPET)</b> <br> 
-Chongyan Cai, Xu Liang, Qinglong An,<b>Zhengrui Tao</b>, Weiwei Ming, Ming Chen <br>
+Chongyan Cai, Xu Liang, Qinglong An, <b>Zhengrui Tao</b>, Weiwei Ming, Ming Chen <br>
 <i>Submitted to "the International Journal of Precision Engineering and Manufacturing-Green Technology"</i>
 
 
