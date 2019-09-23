@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journals
-<b>[- A Novel Method for Tool Condition Monitoring Based on Long Short-Term Memory and Hidden Markov Model Hybrid Framework in High-Speed Milling Ti-6Al-4V (Reviews Completed)](http://zhengruitao.github.io/publications/AMT)</b> <br> 
+<b>[- A Novel Method for Tool Condition Monitoring Based on Long Short-Term Memory and Hidden Markov Model Hybrid Framework in High-Speed Milling Ti-6Al-4V](http://zhengruitao.github.io/publications/AMT)</b> <br> 
 <b>Tao Zhengrui</b>, Qinglong An, Gongyu Liu, Ming Chen <br> 
 <i>Submitted to "the International Journal of Advanced Manufacturing Technology"</i> 
 
@@ -21,15 +21,15 @@ author_profile: true
 Qinglong An, Jie Chen, <b>Zhengrui Tao</b>, Weiwei Ming, Ming Chen <br>
 <i>Accepted to "the International Journal of Refractory Metals and Hard Materials"</i>
 
-<b>[- Tool Remaining Useful Life Prediction Based on Convolutional Neural Network-Stacked Bidirectional and Unidirectional LSTM Network Hybrid Model (Under Review)](http://zhengruitao.github.io/publications/Measurement)</b> <br> 
+<b>[- Tool Remaining Useful Life Prediction Based on Convolutional Neural Network-Stacked Bidirectional and Unidirectional LSTM Network Hybrid Model](Under Review)(http://zhengruitao.github.io/publications/Measurement)</b> <br> 
 Qinglong An<sup>&</sup>, <b>Zhengrui Tao<sup>&</sup></b>, Jie Chen, Meng Hu, Ming Chen (<sup>&</sup>co-first authors) <br>
 <i>Submitted to "the International Journal of Advanced Manufacturing Technology"</i>
 
-<b>[- Experimental and Finite Element Analysis of the Formation Mechanism of Serrated Chips of Nickel-based Superalloy Inconel 718  (Under Review)](http://zhengruitao.github.io/publications/lijunli_AMT)</b> <br>
+<b>[- Experimental and Finite Element Analysis of the Formation Mechanism of Serrated Chips of Nickel-based Superalloy Inconel 718](Under Review)(http://zhengruitao.github.io/publications/lijunli_AMT)</b> <br>
 Junli Li, <b>Zhengrui Tao</b>, Xiaojiang Cai, Qinglong An, Ming Chen <br>
 <i>Submitted to "the International Advanced Manufacturing Technology"</i>
 
-<b>[- Experimental study on the cooling/lubrication performance of dry and supercritical CO2-based minimum quantity lubrication in peripheral milling Ti-6Al-4V (Under Review)](http://zhengruitao.github.io/publications/JPET)</b> <br> 
+<b>[- Experimental study on the cooling/lubrication performance of dry and supercritical CO2-based minimum quantity lubrication in peripheral milling Ti-6Al-4V](Under Review)(http://zhengruitao.github.io/publications/JPET)</b> <br> 
 Chongyan Cai, Xu Liang, Qinglong An, <b>Zhengrui Tao</b>, Weiwei Ming, Ming Chen <br>
 <i>Submitted to "the International Journal of Precision Engineering and Manufacturing-Green Technology"</i>
 
