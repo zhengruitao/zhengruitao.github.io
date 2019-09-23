@@ -56,9 +56,11 @@ Skills
 
 Service and leadership
 ======
-* Siyuan Commonweal Organization: Project Director
-  * Took efforts to improve education quality in China’s poorest places with my heart of gratitude as one who also comes from rural and poverty-stricken areas
-  * Be responsible for Summer Rural Teaching Support Volunteer Program in 2018 and select over 110 volunteers who go to 5 schools in Yunnan, Gansu, Henan Province
-  * Offer free summer class for more than 700 students in all during 2018 summer
-* The 2018 World Artificial Intelligence Conference(WAIC) volunteer team : Team member
-  * Serve the WAIC with professionalism and enthusiasm, contribute to connecting all the guests at home and abroad and show their youthful demeanor at the WAIC
+* The 2018 World Artificial Intelligence Conference volunteer team : Team member
+* The 2018 First China International Import Expo volunteer team : Team member
+* The 2018 Shanghai International Marathon volunteer team : Team member
+  * Serve the WAIC/FCIIE/SIM with professionalism and enthusiasm, contribute to connecting all the guests at home and abroad and show their youthful demeanor at the WAIC
+* Mathematical Contest In Modeling: Group Director
+  * Took efforts to improve corporation efficiency in The three-days modeling contest
+  * Be responsible for the modling, algorithm, and their coding implementation
+  * The paper submitted is designiated as Honorable Mention
