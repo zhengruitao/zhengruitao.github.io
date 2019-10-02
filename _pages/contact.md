@@ -6,7 +6,7 @@ permalink: /contact/
 author_profile: true
 ---
 ***Email:
-taozhengrui [at] sjtu.edu.cn***
+taozhengrui [at] sjtu.edu.cn;yorktao1996@gmail.com***
 
 ***Address:
 No 800,Dongchuan Rd.,
