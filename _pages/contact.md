@@ -10,7 +10,7 @@ taozhengrui [at] sjtu.edu.cn***
 
 ***Address:
 No 800,Dongchuan Rd.,
-RoomD300C, Building of Nechanical Engineering, 
+RoomD300C, Building of Mechanical Engineering, 
 Shanghai Jiao Tong University, 
 Shanghai, 200240, P.R. China***
 
