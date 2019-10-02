@@ -11,7 +11,7 @@ Research Experiences
    - Developed a novel method based on [Long Short-Term Memory network](http://zhengruitao.github.io/images/typical_LSTM.jpg) and [hidden Markov model](http://zhengruitao.github.io/images/GMM-HMM.jpg) (LSTM-HMM) hybrid framework to track the flank wear and predict the remaining useful life of cutting tool during high-speed milling Ti-6Al-4V. 
 <p align="center"><img src="https://zhengruitao.github.io/images/LSTM-HMM-scheme.jpg?raw=true" alt="Photo" style="width: 800px;"/></p> 
    - The cyber-physical system (CPS) is utilized to collect the internal controller signals and the external sensor signals during machining smartphone backplate. An integrated model that incorporates [convolutional neural network](http://zhengruitao.github.io/images/CNN_structure.jpg) with stacked [bi-directional](http://zhengruitao.github.io/images/Stacked-Bidirectional-and-Unidirectional-LSTM-Networks.jpg) and unidirectional LSTM (SBULSTM) network(CNN-SBULSTM) is proposed to track the tool wear evolution and predict its RUL.
-<p align="center"><img src="https://zhengruitao.github.io/images/CNN-BLSTMs-structure.jpg?raw=true" alt="Photo" style="width: 800px;"/></p> 
+<p align="center"><img src="https://zhengruitao.github.io/images/CNN-BLSTMs-structure.jpg?raw=true" alt="Photo" style="width: 800px;"/></p><br>
 * ***<font color="#660000">Chatter Stability Analysis and Feedrate Optimization in the Milling Process</font>***
 <p align="center"><img src="https://zhengruitao.github.io/images/thesis_framework.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   - Obtained the cutter-workpiece engagement area using geometric simulation and established the milling force model.<br>
