@@ -17,9 +17,10 @@ redirect_from:
 
 Education
 ======
-* **Shanghai Jiao Tong University                                                                      Shanghai,China<br>
-   *M.S. in Mechanical Engineering                                                                     Sept. 2017-present*<br>
- * **Core Courses（Selected）:** Tribology & Lubrication (A+), design of complex mechatronics system (A+), Mathematical optimization (A), Plastic Deformation Theory and Numerical Simulation (A), Elastic and Plastic Mechanics (A-)
+
+* **Shanghai Jiao Tong University                                  <div style="text-align: right"><b>Shanghai,China</b></div><br>
+   * *M.S. in Mechanical Engineering                                                                     Sept. 2017-present<br>
+   * **Core Courses（Selected）:** Tribology & Lubrication (A+), design of complex mechatronics system (A+), Mathematical optimization (A), Plastic Deformation Theory and Numerical Simulation (A), Elastic and Plastic Mechanics (A-)
 * **Harbin Institute of Technology, WEIHAI                                                              Weihai,China***
    *B.Eng. in Mechanical Engineering                                                                    Sept. 2013-Jun. 2017*
    * Outstanding Graduates of Shandong Province (an elite program for top 2% students in HIT(WEIHAI))
