@@ -30,7 +30,7 @@ Education
 Research experience
 ======
 * **Tool Condition Monitoring, Diagnostic, Prognostics, and Remaining Useful Life Prediction**　　**Shanghai,China**
-  * *Research Assistant, Supervised by Prof. Qinglong An*　　　　　　　　　　　　　　　　　　　*09/2018 - Present*
+  * *Research Assistant, Supervised by Prof. Qinglong An*　　　　　　　　　　　　　　　　　*09/2018 - Present*
   * Developed a novel method based on Long Short-Term Memory network and hidden Markov model (LSTM-HMM) hybrid framework for tool condition monitoring to diagnose tool wear status and track the flank wear during high-speed milling Ti-6Al-4V
   * Proposed an integrated model that incorporates convolutional neural network (CNN) with stacked bidirectional and unidirectional LSTM (SBULSTM) network, named CNN-SBULSTM, to address sensor data collected by cyber-physical system for remaining useful life prediction
 * **Chatter Stability Analysis and Feed Rate Optimization in the Milling Process**               **Shanghai,China**
