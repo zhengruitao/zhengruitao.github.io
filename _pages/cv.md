@@ -42,7 +42,7 @@ Research experience
   * Mirco surface morphology of the sealing profile is obtained by OLYMPUS optical digital microscope. Fractal characteristics were studied based on the structural function and fractal parameters were obtained. The V-M function was employed to characterize the fractal surface, and the fractal contact model was established based on the single asperity contact model and area distribution function
   * A muliti-scale contact model of the sealing profile is developed based on the finite element model, and the contact characteristics of sealing profile in complex environment were studied
   * Macro and micro contact characteristics of an aviation seal profile are investigated  by theoretical analysis, numerical simulation and experimental testing. And A new method for calculating the real contact area is proposed by coupling the theory and finite element method, which provides a reference for the design and application of seals
-* **Design of Separation Device Using Redundant Motors Basing on Two-sectiona**　　　　　　　**Weihai,China**
+* **Design of Separation Device Using Redundant Motors Basing on Two-sectiona**　　　　　　　　**Weihai,China**
   * *Research Assistant, Supervised by Prof. Huiying Liu*　　　　　　　　　　　　　　　　　*12/2015 - 07/2016*
   * Designed innovatively a separation device to make sure the two separated parts are reliably connected, and the connection between the two parts can be rapidly released when receiving separation signal
   *  Manufactured, assembled the parts, and tested the device's separation time and reliability in vacuum and low temperature environment
