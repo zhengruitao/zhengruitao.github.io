@@ -2,7 +2,8 @@
 <!-- layout: archive -->
 excerpt: "Zhengrui tao Research"
 permalink: /research/
-
+author_profile: true
+---
 Education
 ======
 * ***<font color="#660000">Tool Condition Monitoring, Diagnostic, Prognostics and Remaining Useful Life Prediction</font>***
