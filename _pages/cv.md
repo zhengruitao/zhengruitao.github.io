@@ -63,10 +63,11 @@ Technical Skills
 
 Service and leadership
 ======
-* Teaching Assistant, Course:*Introduction to Engineering*　　　　　　　　　09/2018 - 12/2018
+* Teaching Assistant, Course:*Introduction to Engineering*　　　　　　　　　　　　09/2018 - 12/2018
 * Volunteer, The First International Import Expo　　　　　　　　　　　　　　　　　　　　11/2018
-* Volunteer, 2018 Shanghai International Marathon　　　　　　　　　　　　　　　　　　　　11/2018
-* Volunteer, 2018 WAIC(World Artificial Intelligence Conference)　　　　　　　　　　　　09/2018
-* Mathematical Contest In Modeling: Group Director                                   12/2016
+* Volunteer, 2018 Shanghai International Marathon　　　　　　　　　　　　　　　　　　11/2018
+* Volunteer, 2018 WAIC(World Artificial Intelligence Conference)　　　　　　　　　　09/2018
+* Mathematical Contest In Modeling: Group Director　　　　　　　　　　　　　　　　　　12/2016
   * Took efforts to improve corporation efficiency in The three-days modeling contest; Be responsible for the modling, algorithm, and their coding implementation
   * The paper submitted is designiated as Honorable Mention
+* International Reviewer: International Journal of Machine Tools and Manufacture, Journal of Materials Processing Technology, Smart Materials and Structures, WEAR, Advanced Engineering Materials, International Journal of Advanced Manufacturing Technology
