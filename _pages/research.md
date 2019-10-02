@@ -1,6 +1,5 @@
 ---
 <!-- layout: archive -->
-title: "Research Experience"
 excerpt: "Zhengrui tao Research"
 permalink: /research/
 author_profile: true
