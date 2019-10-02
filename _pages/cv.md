@@ -34,11 +34,11 @@ Research experience
   * Developed a novel method based on Long Short-Term Memory network and hidden Markov model (LSTM-HMM) hybrid framework for tool condition monitoring to diagnose tool wear status and track the flank wear during high-speed milling Ti-6Al-4V
   * Proposed an integrated model that incorporates convolutional neural network (CNN) with stacked bidirectional and unidirectional LSTM (SBULSTM) network, named CNN-SBULSTM, to address sensor data collected by cyber-physical system for remaining useful life prediction
 * **Chatter Stability Analysis and Feed Rate Optimization in the Milling Process**　　　　　　　　**Shanghai,China**
-  * *Research Assistant, Supervised by Prof. Qinglong An*　　　　　　　　　　　　　　　　*07/2017 - 09/2018*
+  * *Research Assistant, Supervised by Prof. Qinglong An*　　　　　　　　　　　　　　　　　*07/2017 - 09/2018*
   * Obtained the cutter-workpiece engagement area using geometric simulation and established the milling force model;the analytical regenerative chatter prediction model was presented and the time/frequency domain solutions were employed to obtain Stability Lobe Diagrams
   * With constant cutting force as the optimization target, considering the machining stability, cutting force, torque and machine power constraints, a single-objective optimization model is established. The smoothness and efficiency of machining process are improved through feed-rate optimization by segments
-* **Analysis and Experimental Study on Contact Characteristics of Aviation Sealing Profile**　　　**Weihai,China**
-  * *Research Assistant, Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　　　*09/2016 - 07/2017*
+* **Analysis and Experimental Study on Contact Characteristics of Aviation Sealing Profile**　　　　**Weihai,China**
+  * *Research Assistant, Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　　*09/2016 - 07/2017*
   * Mirco surface morphology of the sealing profile is obtained by OLYMPUS optical digital microscope. Fractal characteristics were studied based on the structural function and fractal parameters were obtained. The V-M function was employed to characterize the fractal surface, and the fractal contact model was established based on the single asperity contact model and area distribution function
   * A muliti-scale contact model of the sealing profile is developed based on the finite element model, and the contact characteristics of sealing profile in complex environment were studied
   * Macro and micro contact characteristics of an aviation seal profile are investigated  by theoretical analysis, numerical simulation and experimental testing. And A new method for calculating the real contact area is proposed by coupling the theory and finite element method, which provides a reference for the design and application of seals
