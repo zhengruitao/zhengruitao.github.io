@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Journals
 <b>[- A Novel Method for Tool Condition Monitoring Based on Long Short-Term Memory and Hidden Markov Model Hybrid Framework in High-Speed Milling Ti-6Al-4V](http://zhengruitao.github.io/publications/AMT)</b> <br> 
-<u>'Tao Zhengrui'</u>, Qinglong An, Gongyu Liu, Ming Chen <br> 
+'Tao Zhengrui', Qinglong An, Gongyu Liu, Ming Chen <br> 
 <i>Accepted to the International Journal of Advanced Manufacturing Technology</i> 
 
 <b>[- 曲面基体绝缘涂镀层涡流测厚高精度标定方法(High-precision calibration method for insulating coating thickness measurement of curved surface based on eddy current)](http://zhengruitao.github.io/publications/thickness_measurement)</b> <br> 
