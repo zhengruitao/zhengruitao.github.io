@@ -1,5 +1,6 @@
 ---
 <!-- layout: archive -->
+title: Research Background
 excerpt: "Zhengrui tao Research"
 permalink: /research/
 author_profile: true
@@ -7,7 +8,6 @@ author_profile: true
 Research Experiences
 ======
 * ***<font color="#660000">Tool Condition Monitoring, Diagnostic, Prognostics and Remaining Useful Life Prediction</font>***<br>
-<p align="center"><img src="https://zhengruitao.github.io/images/Framework of data-driven model.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Developed a novel method based on [Long Short-Term Memory network](http://zhengruitao.github.io/images/typical_LSTM.jpg) and [hidden Markov model](http://zhengruitao.github.io/images/GMM-HMM.jpg) (LSTM-HMM) hybrid framework to track the flank wear and predict the remaining useful life of cutting tool during high-speed milling Ti-6Al-4V.<br>
 <p align="center"><img src="https://zhengruitao.github.io/images/LSTM-HMM-scheme.jpg?raw=true" alt="Photo" style="width: 800px;"/></p> 
   * The cyber-physical system (CPS) is utilized to collect the internal controller signals and the external sensor signals during machining smartphone backplate. An integrated model that incorporates [convolutional neural network](http://zhengruitao.github.io/images/CNN_structure.jpg) with stacked [bi-directional](http://zhengruitao.github.io/images/Stacked-Bidirectional-and-Unidirectional-LSTM-Networks.jpg) and unidirectional LSTM (SBULSTM) network(CNN-SBULSTM) is proposed to track the tool wear evolution and predict its RUL.<br>
