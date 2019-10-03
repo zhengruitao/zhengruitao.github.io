@@ -13,7 +13,7 @@ redirect_from:
 </p>
 * Hi! I am a Master student at the Manufacturing Technology Lab of the [School of Mechanical Engineering](http://me.sjtu.edu.cn/en/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My research intersts mainly lie in the areas of adaptive control, chatter vibration detection/suppression, tool condition monitoring, simulation and optimization of CNC milling process. I am fortunate to be advised by Prof. An Qinglong.
 * Click [here](http://zhengruitao.github.io/files/CV_TZR.pdf) to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://zhengruitao.github.io/contact/).
-* Prior to starting my M.A., I received my B.A. in Mechanical Engineering from [Harbin Institute of Technology, WEIHAI](http://hitwh.edu.cn/) in 2017, ranked top 2 of 137 students in the undergraduate stage [Click to View My Ranking Certification [PDF]](http://zhengruitao.github.io/files/ranking_TZR.pdf) and graduated with a major GPA of 93.13 in four semsters!
+* Prior to starting my M.A., I received my B.A. in Mechanical Engineering from [Harbin Institute of Technology, WEIHAI](http://hitwh.edu.cn/) in 2017, ranked top 2 of 157 students and graduated with a major GPA of 93.13 in four years!
 * <font color="#dd0000">I am looking for possible PhD opportunity starting from 2020 Fall :)  !!!</font>
 * I’m a disciplinary nomad, integrating disciplines like computer science, information science with fields like maufacturing technology, composite material structure. In terms of academic specialties, I spend a lot of my time in Computer-Aided Simulation Work, Programing Implementation for Fast Prototyping and Testing, and Verification through Machining Experiments.
 
