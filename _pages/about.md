@@ -18,7 +18,7 @@ redirect_from:
 * I’m a disciplinary nomad, integrating disciplines like computer science, information science with fields like maufacturing technology, composite material structure. In terms of academic specialties, I spend a lot of my time in Computer-Aided Simulation Work, Programing Implementation for Fast Prototyping and Testing, and Verification through Machining Experiments.
 
 # Recent news
-* Sept.2019. Thank Ministry of Education for the National Graduate Scholarship! I am one of the six students in the same grade awared for this honor!
+* Sept.2019. Thank Ministry of Education for the National Graduate Scholarship! Only six students in the same grade awared for the honor!
 * Sept.2019. One paper was submmited to "The Measurement" about tool remaining useful life prediction!
 * Sept.2019. One paper was accepted to "the International Journal of Advanced Manufacturing Technology" about tool condition monitoring!
 * Aug.2019. One paper was accepted to "The Journal of Zhejiang University (ENGINEERING SCIENCE)" about High-precision calibration method for insulating coating thickness measurement of curved surface! This journal is indexed by EI.
