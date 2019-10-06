@@ -11,11 +11,11 @@ author_profile: true
 
 <b>[- [J2] 曲面基体绝缘涂镀层涡流测厚高精度标定方法(High-precision calibration method for insulating coating thickness measurement of curved surface based on eddy current)](http://zhengruitao.github.io/publications/thickness_measurement)</b> <br> 
 <u><b>Zhengrui Tao </b></u>, Jiaqiang Dang, Jingyang Xu, Qinglong An, Ming Chen, Fei Ren, Li Wang<br> 
-<i>Accepted to the Journal of Zhejiang University(Engineeering Science)</i>
+<i>Accepted to the Journal of Zhejiang University(Engineering Science)</i>
 
 <b>[- [J3] 基于支持向量机回归的曲面零件涡流测距标定方法(Eddy Current Distance Measurement Calibration Method for Curved Surface Parts Based on Support Vector Machine Regression)](http://zhengruitao.github.io/publications/distance_measurement)</b> <br> 
 <u><b>Zhengrui Tao</b></u>, Jiaqiang Dang, Jingyang Xu, Qinglong An, Ming Chen, Li Wang, Fei Ren<br> 
-<i>Accepted to the Journal of Shanghai Jiaotong University(Engineeering Science)</i>
+<i>Accepted to the Journal of Shanghai Jiaotong University</i>
 
 <b>[- [J4] Experimental investigation on tool wear characteristics of PVD and CVD coatings during face milling of Ti-6242S and Ti-555 titanium alloys](http://zhengruitao.github.io/publications/RMHM)</b> <br> 
 Qinglong An, Jie Chen, <u><b>Zhengrui Tao</b></u>, Weiwei Ming, Ming Chen <br>
