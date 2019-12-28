@@ -1,7 +1,7 @@
 ---
 title: "Experimental investigation on tool wear characteristics of PVD and CVD coatings during face milling of Ti-6242S and Ti-555 titanium alloys"
 collection: publications
-excerpt: 'This paper is submitted to RMHH.'
+excerpt: 'This paper is submitted to RMHM.'
 permalink: /publications/RMHM
 date: 2019-7-23
 ---
