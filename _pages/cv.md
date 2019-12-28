@@ -29,7 +29,7 @@ Education
 
 Research experience
 ======
-* **Virtual Machining System: Chatter Stability Analysis and Feed Rate Optimization**   **<p align="right">Shanghai,China</p>**
+* <p align="left">**Virtual Machining System: Chatter Stability Analysis and Feed Rate Optimization**</p> **<p align="right">Shanghai,China</p>**
   * *Research Assistant, Supervised by Prof. Ming Chen*　　　　　　　　　　　　　　　　　                         *09/2019 - Present*
   * Established a Virtual Machining System specific to thin-wall workpieces, including chatter stability analysis and feed rate
 optimization, contributing to a 43% reduction in average cycle time and 7.4-fold improved surface finish for automotive
