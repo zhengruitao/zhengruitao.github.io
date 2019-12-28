@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://zhengruitao.github.io/images/taozhengrui_cofer.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
 </p>
 * Hi! I am a Master student at the Manufacturing Technology Lab of the [School of Mechanical Engineering](http://me.sjtu.edu.cn/en/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My research intersts mainly lie in the areas of Bionic Structure Design, Adaptive Control, Chatter Vibration Detection/Suppression and Smart Manufacturing. I am fortunate to be advised by Prof. Ming Chen.
-* Click [here](http://zhengruitao.github.io/files/Resume _Zhengrui Tao.pdf) to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://zhengruitao.github.io/contact/).
+* Click [here](http://zhengruitao.github.io/files/Resume_TZR.pdf) to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://zhengruitao.github.io/contact/).
 * Prior to starting my M.Sc., I received my B.Eng. in Mechanical Engineering from [Harbin Institute of Technology, WEIHAI](http://hitwh.edu.cn/) in 2017, ranked 2nd of 160 students for the first three years and graduated with a major GPA of 92.30 for four years!
 * <font color="#dd0000">I am looking for possible Ph.D. opportunity starting from 2020 Fall :)  !!!</font>
 * I’m a disciplinary nomad, integrating disciplines like computer science, information science with fields like maufacturing technology, composite material structure. In terms of academic specialties, I spend a lot of my time in Computer-Aided Simulation Work, Programing Implementation for Fast Prototyping and Testing, and Verification through Machining Experiments.
