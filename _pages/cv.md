@@ -32,7 +32,7 @@ Research Experience
 
 * **Virtual Machining System: Chatter Stability Analysis and Feed Rate Optimization**                             
   * *Research Assistant, Supervised by Prof. Ming Chen*                                                              
-  * *Shanghai, Chian  09/2019 - Present*
+  * *Shanghai, Chian; 09/2019 - Present*
   * Established a Virtual Machining System specific to thin-wall workpieces, including chatter stability analysis and feed rate
 optimization, contributing to a 43% reduction in average cycle time and 7.4-fold improved surface finish for automotive
 engine turbine machining
@@ -42,7 +42,7 @@ parameters according to the minimum octants contacting with the cutter, and opti
 Algorithms to maximize the Material Removal Rate
 * **Tool Condition Monitoring Diagnostics, Prognostics, and Remaining Useful Life Prediction**　                  
   * *Research Assistant, Supervised by Prof. Ming Chen & Prof. Mohamed EL Mansori*　　　　　　　           
-  * *Shanghai, Chian  09/2018 - 09/2019*
+  * *Shanghai, Chian; 09/2018 - 09/2019*
   * Developed a hybrid framework based on LSTM and HMM capable of performing TCM during high-speed milling Ti-6Al-4V 
 with diagnostic accuracy reaching up to 0.96 and prognostics MSE decreasing by 93.9%
   * Employed the global model (stacked LSTM network) to identify the current tool wear stage, inferred the wear accumulation
