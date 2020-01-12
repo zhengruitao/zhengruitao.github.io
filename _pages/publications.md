@@ -23,7 +23,7 @@ Qinglong An, Jie Chen, <u><b>Zhengrui Tao</b></u>, Weiwei Ming, Ming Chen <br>
 
 <b>- [J5] A Data-driven Model for Milling Tool Remaining Useful Life Prediction with Convolutional and Stacked LSTM Network.</b> <br> 
 Qinglong An<sup>&</sup>, <u><b>Zhengrui Tao<sup>&</sup></b></u>, Mohamed EL MANSORI, Xingwei Xu, Ming Chen (<sup>&</sup>co-first authors) <br>
-<i>Revision Submitted to Measurement</i>
+<i>Accepted to Measurement</i>
 
 <b>- [J6] Experimental and Finite Element Analysis of the Formation Mechanism of Serrated Chips of Nickel-based Superalloy Inconel 718 (Under Review)</b> <br>
 Junli Li, <u><b>Zhengrui Tao</b></u>, Xiaojiang Cai, Qinglong An, Ming Chen <br>
