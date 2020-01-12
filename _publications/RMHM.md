@@ -5,7 +5,7 @@ excerpt: 'This paper is submitted to RMHM.'
 permalink: /publications/RMHM
 date: 2019-7-23
 ---
-* ***Current Status: Revising***
+* ***Current Status: Published***
 
 ## Abstract
 The nickel-based superalloy Inconel 718 is a typical difficult-to-cut material due to its low thermal conductivity and high high-temperature strength. It has been used in a good many kinds of aeronautical key structures because of its high yield stress and
