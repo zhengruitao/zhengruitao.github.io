@@ -65,7 +65,7 @@ dynamic sealing with with service life increased by 33.5% and 47.9% compared to 
 axisymmetric FEM of the biomimetic ring, groove, and slide bar based on the actual sealing setting to analyze Von-Mises
 stress and contact stress
 * **Research and Development of Low-Shock Non-Explosive Separation Device**　　　　　　　                                 
-  * *Research Assistant, Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                                  *12/2014 - 07/2015*
+  * *Research Assistant, Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                                  *12/2014 - 07/2015* 
   * Developed a Non-Explosive separation device to connect the launch vehicle and small satellite reliably and release the connection rapidly, and adopted divided nuts to the connect and separate bolt, the four-bar mechanism to control the movement
 of releasing clamps (divided nuts), eight circumferentially distributed balls to lock the device, and the dual redundant DC
 motors to unlock the device
