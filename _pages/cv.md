@@ -27,7 +27,7 @@ Education
    * **Core Courses(Selected):** Digital Electronic Technology (94), Analogical　Electronics (99, rank 1st), College Physics (100 & 92), Computer Organization (98, rank 1st), Numerical Control Technology (96), Discrete Mathematics (95, rank 1st), Functions　of　Complex Variables & Integral Transformations (100), Automatic Control Theory (96), Machanics of Materials (98)
 
 
-Research experience
+Education
 ======
 
 * **Virtual Machining System: Chatter Stability Analysis and Feed Rate Optimization**                             **Shanghai,China**<br>
