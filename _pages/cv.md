@@ -40,7 +40,7 @@ engine turbine machining
 parameters according to the minimum octants contacting with the cutter, and optimized the feed rate in NC code with Genetic
 Algorithms to maximize the Material Removal Rate
 * **Tool Condition Monitoring Diagnostics, Prognostics, and Remaining Useful Life Prediction**　                  
-  * *Research Assistant, Supervised by Prof. Ming Chen & Prof. Mohamed EL Mansori*　　　　　　　          *09/2018 - 09/2019*<br>
+  * *Research Assistant, Supervised by Prof. Ming Chen & Prof. Mohamed EL Mansori*　　　　　　　           *09/2018 - 09/2019*<br>
   * Developed a hybrid framework based on LSTM and HMM capable of performing TCM during high-speed milling Ti-6Al-4V 
 with diagnostic accuracy reaching up to 0.96 and prognostics MSE decreasing by 93.9%
   * Employed the global model (stacked LSTM network) to identify the current tool wear stage, inferred the wear accumulation
