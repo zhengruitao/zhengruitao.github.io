@@ -24,7 +24,7 @@ redirect_from:
 * Aug. 2019. One paper was accepted to "The Journal of Zhejiang University (ENGINEERING SCIENCE)" about High-precision calibration method for insulating coating thickness measurement of curved surface! This journal is indexed by EI.
 * Jul. 2019. One paper was accepted to "The Journal of Shanghai Jiao Tong University" about Support Vector Machine Regression for Eddy Current Distance Measurement! This journal is indexed by EI.
 * Jan. 2019. Thank Sandvik Coromant for the Sandvik Coromant Scholarship!
-* Nov. 2018. One paper was accepted to the 14th 8th International Conference of High-Speed Machining(ICHSM2018) and honored to receive the <b>Excellent Poster Award</b>
+* Nov. 2018. One paper was accepted to the 8th International Conference of High-Speed Machining (ICHSM2018) and honored to receive the <b>Excellent Poster Award</b>
 * Oct. 2018. Finished the six-month intership in Engine Systems department of FCA.
 * Sept. 2018. One paper was accepted for oral presentation at the 14th China-Japan International Conference on Ultra-Precision Machining Process (CJUMP2018) and honored to receive the <b>Best Paper Award</b>
 * Sept. 2018. Our team RQQST won the <b>first place</b> in <b>Course project showcase & competition</b> of Complex Electromechanical Systems! The project is sponsored by Everwin Precision.
