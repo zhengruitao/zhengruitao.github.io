@@ -8,7 +8,7 @@ author_profile: true
 Research
 ======
 * ***<font color="#660000">Virtual Machining System: Chatter Stability Analysis and Feed Rate Optimization</font>***
-  * *Research Assistant, Supervised by Prof. Ming Chen*                                                              
+  * *RA, Supervised by Prof. Ming Chen*                                                              
   * *Shanghai, China; 09/2019 - Present*
   * <p align="center"><img src="https://zhengruitao.github.io/images/thesis_framework.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Established a Virtual Machining System specific to thin-wall workpieces, including chatter stability analysis and feed rate
@@ -21,7 +21,7 @@ Algorithms to maximize the Material Removal Rate
   * [More details about Master's thesis](http://zhengruitao.github.io/files/Optimization_Slide.pdf)
   
 * ***<font color="#660000">Tool Condition Monitoring: Diagnostics, Prognostics, and Remaining Useful Life Prediction</font>***
-  * *Research Assistant, Supervised by Prof. Ming Chen & Prof. Mohamed EL Mansori*　　　　　　　           
+  * *RA, Supervised by Prof. Ming Chen & Prof. Mohamed EL Mansori*　　　　　　　           
   * *Shanghai, China; 09/2018 - 09/2019*
   * <p align="center"><img src="https://zhengruitao.github.io/images/LSTM-HMM-scheme.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Developed a hybrid framework based on [LSTM](http://zhengruitao.github.io/images/LSTM.jpg) and [HMM](http://zhengruitao.github.io/images/GMM-HMM.jpg) capable of performing TCM during high-speed milling Ti-6Al-4V 
@@ -35,19 +35,19 @@ predict remaining useful life during machining 6063 aluminum alloy smartphone ba
 accuracy/ score) decreased by **77**%, increased by **25**% and improved by **38**% compared with the Random Forest model
   * Utilized CNN for local feature extraction and dimension reduction, introduced the SBULSTM network to denoise and encode
 the temporal information, built multiple fully connected layers on the top of the CNN-SBULSTM network to add nonlinearity, and employed one regression layer to generate the target RUL
-  * Journal Papers: [J1]/[J5]/[J7]; Conference paper: [C2]
+  * Journal papers: [J1]/[J5]/[J7]; Conference paper: [C2]
     
 * ***<font color="#660000">Research on Helical Milling Specialized Tool for CFRP/Titanium alloy</font>***
-  * *Research Assistant, Supervised by Prof. Jinyang Xu*　　　　　　　　　　　　　　　　　　                       
+  * *RA, Supervised by Prof. Jinyang Xu*　　　　　　　　　　　　　　　　　　                       
   * *Shanghai, China; 09/2017 - 07/2018*
   * Designed a specialized helical milling tool with distributed multi-point front cutting edge, and evaluated the cutting performances with machined titanium alloy holes burr-free, CFRP holes without delimitation and the service life improved by **50**%
 and 35% compared to the traditional end mill
   * Analyzed the chip-splitting results by simulating the undeformed chip formation and each cutting edge’s trajectory, and
 proceed to iteratively update the structure and geometric parameters of the specialized tool based on the simulation results
-  * Journal Papers:[J4]; Conference paper: [C1]
+  * Journal papers:[J4]; Conference paper: [C1]
   
 * ***<font color="#660000">Structural Design and Sealing Performance Analysis of Biomimetic Flexible Sealing Ring</font>***　　       
-  * *Research Assistant, Supervised by Prof. Jinyang Xu*　　　　　　　　　　　　　　　　　　                        
+  * *RA, Supervised by Prof. Jinyang Xu*　　　　　　　　　　　　　　　　　　                        
   * *Shanghai, China; 09/2016 - 07/2017*
   * Designed a biomimetic sealing ring inspired by the functional surface of earthworm, which avoids rolling and distortion in
 dynamic sealing with with service life increased by **33.5**% and **47.9**% compared to O- and rectangular-ring
@@ -56,7 +56,7 @@ axisymmetric FEM of the biomimetic ring, groove, and slide bar based on the actu
 stress and contact stress
 
 * ***<font color="#660000">Research and Development of Low-Shock Non-Explosive Separation Device</font>***                     
-  * *Research Assistant, Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                            
+  * *RA, Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                            
   * *Weihai, China; 12/2014 - 07/2015* 
   * Developed a Non-Explosive separation device to connect the launch vehicle and small satellite reliably and release the connection rapidly, and adopted divided nuts to the connect and separate bolt, the four-bar mechanism to control the movement
 of releasing clamps (divided nuts), eight circumferentially distributed balls to lock the device, and the dual redundant DC
