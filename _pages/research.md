@@ -68,14 +68,14 @@ the unlocking and separation process by ADAMS
 Projects
 ======
 * ***<font color="#660000">Multifunctional Medical Nursing Bed</font>***
-  * *Research Assistant, Supervised by Prof. Ming Chen*　　　　　　　　　　　　　　　　　                            
-  * *Weihai, China; 07/2018 - 09/2018* 
+  * *Supervised by Prof. Ming Chen*　　　　　　　　　　　　　　　　　                            
+  * *Shanghai, China; 07/2018 - 09/2018* 
   * Modified a commonly used manual nursing bed and added multi functions, such as anti-slip, easy dismantling and hemorrhoids prevention, promoted the blood circulation of the patient's legs and reduce the muscle atrophy caused
   * Analyzed the kinematics of the drive mechanism to make sure that the platform can cover the testing angle range and position accurately at a specific angle
   * [More details](http://zhengruitao.github.io/files/Nursing_Bed_Slide.pdf)
   
 * ***<font color="#660000">End-actuator for Oil Tank Insulation-layer Surface Trimming and Its Process Planning</font>***
-  * *Research Assistant, Supervised by Prof. Ming Chen*　　　　　　　　　　　　　　　　　　                       
+  * *Supervised by Prof. Ming Chen*　　　　　　　　　　　　　　　　　　                       
   * *Shanghai, China; 09/2017 - 03/2018*
   * Designed a flexible end-actuator for insulation-layer surface trimming, including functions of distance measurement and radial feed adjustment, with the ability to control the thickness deviation between ±1mm for the diameter ranging from 2250 to 3350 mm
   * Proposed a collaboration method based on Support Vector Machine Regression to minimize the distance measurement error and used radial basis neural networks to compensate for the errors in different distance intervals
@@ -83,14 +83,14 @@ Projects
   * [More details](http://zhengruitao.github.io/files/End_actuator_Slide.pdf)
 
 * ***<font color="#660000">Analysis and Experimental Study on Contact Characteristics of Aviation Sealing Profile</font>***
-  * *Research Assistant, Supervised by Prof. Jinyang Xu*　　　　　　　　　　　　　　　　　　                        
+  * *Supervised by Prof. Jinyang Xu*　　　　　　　　　　　　　　　　　　                        
   * *Shanghai, China; 11/2016 - 03/2017*
   * [Mirco surface morphology](http://zhengruitao.github.io/images/surface_morphology.tif) of the sealing profile is obtained by OLYMPUS optical digital microscope. Fractal characteristics were studied based on the structural function and fractal parameters were obtained The V-M function was employed to characterize the fractal surface, and the fractal contact model was established based on the single asperity contact model and area distribution function
   * A muliti-scale contact model of the sealing profile is developed based on the [finite element model](http://zhengruitao.github.io/images/compress_in_depth.jpg), and the contact characteristics of sealing profile in complex environment were studied: [micro particles](http://zhengruitao.github.io/images/micro_particles.tif) and [aging of material](http://zhengruitao.github.io/images/aging_of_material.tif)
   * Macro and micro contact characteristics of an aviation seal profile are investigated  by theoretical analysis, numerical simulation and experimental testing. And a new method for calculating the real contact area is proposed by coupling the theory and finite element method, which provides a reference for the design and application of seals
   
 * ***<font color="#660000">Angle Measuring Platform for Fully Articulated Main Hub of Helicopter Rotor Systems</font>***
-  * *Research Assistant, Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                            
+  * *Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                            
   * *Weihai, China; 05/2015 - 09/2016* 
   * Developed a platform to measure three angle parameters range for fully articulated main hub, which allows each blade to lead/lag (move back and forth in-plane), flap (move up and down about an inboard-mounted hinge), and feather (rotate about the pitch axis) independent of the other blades, implemented control system including user interface and query function, and reduced the whole measuring process from 3 hours to 40 minutes.
   * Analyzed the statics and kinematics of the drive mechanism using ANSYS and MATLAB, solved the stress of the main components and the coupling relationship between three angles, which iteratively update the design parameters to guarantee the structural strength of the platform, cover the required angle ranges and position accurately at specific angles
