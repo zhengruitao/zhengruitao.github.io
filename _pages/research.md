@@ -68,6 +68,7 @@ the unlocking and separation process by ADAMS
 
 Selected Projects
 ======
+
  * ***<font color="#660000">Multifunctional Medical Nursing Bed</font>***
   * *Research Assistant, Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                            
   * *Weihai, China; 07/2018 - 09/2018* 
