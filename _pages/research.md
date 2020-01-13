@@ -1,13 +1,10 @@
 ---
 <!-- layout: archive -->
-title: Research Experiences
+title: Research Experiences & Projects
 excerpt: "Zhengrui tao Research"
 permalink: /research/
 author_profile: true
 ---
-Research Experience
-======
-
 * ***<font color="#660000">Virtual Machining System: Chatter Stability Analysis and Feed Rate Optimization</font>***
   * *Research Assistant, Supervised by Prof. Ming Chen*                                                              
   * *Shanghai, China; 09/2019 - Present*
@@ -66,11 +63,11 @@ motors to unlock the device
 the unlocking and separation process by ADAMS
   * Manufactured, assembled the parts, and tested the device's separation time and reliability in vacuum and low temperature environment
 
-Selected Projects
+Projects
 ======
 
  * ***<font color="#660000">Multifunctional Medical Nursing Bed</font>***
-  * *Research Assistant, Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                            
+  * *Research Assistant, Supervised by Prof. Ming Chen*　　　　　　　　　　　　　　　　　                            
   * *Weihai, China; 07/2018 - 09/2018* 
   * Modified a commonly used manual nursing bed and added multi functions, such as anti-slip, easy dismantling and hemorrhoids prevention, promoted the blood circulation of the patient's legs and reduce the muscle atrophy caused
   * Analyzed the kinematics of the drive mechanism to make sure that the platform can cover the testing angle range and position accurately at a specific angle
