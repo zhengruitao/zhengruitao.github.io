@@ -47,6 +47,6 @@ Service and leadership
 * Volunteer, 2018 Shanghai International Marathon　　　　　　　　　　　　　　　　　　
 * Volunteer, 2018 WAIC (World Artificial Intelligence Conference)　　　　　　　　　　
 * Mathematical Contest In Modeling: Group Director　　　　　　　　　　　　　　　　　　
-  * Took efforts to improve corporation efficiency in The three-days modeling contest; Be responsible for the modling, algorithm, and their coding implementation
-  * The paper submitted is designiated as Honorable Mention
+  * Took efforts to improve corporation efficiency in the three-days modeling contest; Be responsible for the modling, algorithm, and their coding implementation
+  * The paper submitted is awarded as Honorable Mention
 * Academic Services: Journal of Materials Processing Technology, WEAR, International Journal of Advanced Manufacturing Technology
