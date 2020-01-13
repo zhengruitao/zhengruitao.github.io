@@ -42,10 +42,10 @@ Chongyan Cai, Xu Liang, Qinglong An, <u><b>Zhengrui Tao</b></u>, Weiwei Ming, Mi
 <b>- [C1] Cutting Performance Evaluation of Helical Milling Specialized Tool for CFRP/Titanium Alloy</b><br>
 <b>[[Presentation]](http://zhengruitao.github.io/files/CJUMP_Slide.pdf)</b><br> 
 <u><b>Zhengrui Tao</b></u>, Qinglong An, Ming Chen<br>
-<i>14th China-Japan International Conference on Ultra-Precision Machining Process</i>, Harbin, China, Sept 13-15, 2018</i>
+<i>14th China-Japan International Conference on Ultra-Precision Machining Process</i>, Harbin, China, Sept 13-15, 2018
 
 <b>- [C2] Hierarchical Dirichlet Process Hidden Semi-Markov Model-based Method for Tool Wear Estimation in High-Speed Milling Ti-6Al-4V</b><br>
 <b>[[Presentation]](http://zhengruitao.github.io/files/ICHSM_Slide.pdf) [[Poster]](http://zhengruitao.github.io/files/ICHSM_Poster.pdf)</b>
 <br>
 <u><b>Zhengrui Tao</b></u>, Gongyu Liu, Qinglong An, Ming Chen<br>
-<i>8th International Conference on High Speed Machining</i>, Guangzhou, China, Nov 22-24, 2018</i>
+<i>8th International Conference on High Speed Machining</i>, Guangzhou, China, Nov 22-24, 2018
