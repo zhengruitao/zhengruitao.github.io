@@ -18,6 +18,7 @@ redirect_from:
 * I’m a disciplinary nomad, integrating disciplines like computer science, information science with fields like maufacturing technology, composite material structure. In terms of academic specialties, I spend a lot of my time in Computer-Aided Simulation Work, Programing Implementation for Fast Prototyping and Testing, and Verification through Machining Experiments.
 
 # Recent news
+* Dec. 2019. Nominated as the Outstanding Graduates of Shanghai!
 * Dec. 2019. One paper was accepted to "Measurement" about Remaining Useful Life Prediction!
 * Sept. 2019. Thank Ministry of Education for the National Graduate Scholarship! Only six students in the same grade awared for the honor!
 * Sept. 2019. One paper was accepted to "The International Journal of Advanced Manufacturing Technology" about Tool Condition Monitoring!
@@ -26,5 +27,5 @@ redirect_from:
 * Jan. 2019. Thank Sandvik Coromant for the Sandvik Coromant Scholarship!
 * Nov. 2018. One paper was accepted to the 8th International Conference of High-Speed Machining (ICHSM2018) and honored to receive the <b>Excellent Poster Award</b>
 * Oct. 2018. Finished the six-month intership in Engine Systems department of FCA.
-* Sept. 2018. One paper was accepted for oral presentation at the 14th China-Japan International Conference on Ultra-Precision Machining Process (CJUMP2018) and honored to receive the <b>Best Paper Award</b>
+* Sept. 2018. One paper was accepted for oral presentation at the 14th China-Japan International Conference on Ultra-Precision Machining Process (CJUMP2018) and honored to receive the <b>Best Paper Award</b>.
 * Sept. 2018. Our team RQQST won the <b>first place</b> in <b>Course project showcase & competition</b> of Complex Electromechanical Systems! The project is sponsored by Everwin Precision.
