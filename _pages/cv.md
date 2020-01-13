@@ -45,7 +45,7 @@ Service and leadership
 * Teaching Assistant, Course:*Introduction to Engineering*　　　　　　　　　　
 * Volunteer, The First International Import Expo　　　　　　　　　　　　　　　　　　　　
 * Volunteer, 2018 Shanghai International Marathon　　　　　　　　　　　　　　　　　　
-* Volunteer, 2018 WAIC(World Artificial Intelligence Conference)　　　　　　　　　　
+* Volunteer, 2018 WAIC (World Artificial Intelligence Conference)　　　　　　　　　　
 * Mathematical Contest In Modeling: Group Director　　　　　　　　　　　　　　　　　　
   * Took efforts to improve corporation efficiency in The three-days modeling contest; Be responsible for the modling, algorithm, and their coding implementation
   * The paper submitted is designiated as Honorable Mention
