@@ -65,13 +65,6 @@ the unlocking and separation process by ADAMS
 
 Projects
 ======
-
- * ***<font color="#660000">Multifunctional Medical Nursing Bed</font>***
-  * *Research Assistant, Supervised by Prof. Ming Chen*　　　　　　　　　　　　　　　　　                            
-  * *Weihai, China; 07/2018 - 09/2018* 
-  * Modified a commonly used manual nursing bed and added multi functions, such as anti-slip, easy dismantling and hemorrhoids prevention, promoted the blood circulation of the patient's legs and reduce the muscle atrophy caused
-  * Analyzed the kinematics of the drive mechanism to make sure that the platform can cover the testing angle range and position accurately at a specific angle
-  * [More details](http://zhengruitao.github.io/files/Nursing_Bed_Slide.pdf)
   
 * ***<font color="#660000">End-actuator for Oil Tank Insulation-layer Surface Trimming and Its Process Planning</font>***
   * *Research Assistant, Supervised by Prof. Ming Chen*　　　　　　　　　　　　　　　　　　                       
@@ -80,6 +73,13 @@ Projects
   * Proposed a collaboration method based on Support Vector Machine Regression to minimize the distance measurement error and used radial basis neural networks to compensate for the errors in different distance intervals
   * Planned the processing technology referring to bar turning, in which the eddy current displacement sensor determines the radial depth of cut, and the robot arm carries the end-actuator back and forth when the tank rotates around the axis
   * [More details](http://zhengruitao.github.io/files/End_actuator_Slide.pdf)
+
+ * ***<font color="#660000">Multifunctional Medical Nursing Bed</font>***
+  * *Research Assistant, Supervised by Prof. Ming Chen*　　　　　　　　　　　　　　　　　                            
+  * *Weihai, China; 07/2018 - 09/2018* 
+  * Modified a commonly used manual nursing bed and added multi functions, such as anti-slip, easy dismantling and hemorrhoids prevention, promoted the blood circulation of the patient's legs and reduce the muscle atrophy caused
+  * Analyzed the kinematics of the drive mechanism to make sure that the platform can cover the testing angle range and position accurately at a specific angle
+  * [More details](http://zhengruitao.github.io/files/Nursing_Bed_Slide.pdf)
   
 * ***<font color="#660000">Analysis and Experimental Study on Contact Characteristics of Aviation Sealing Profile</font>***
   * *Research Assistant, Supervised by Prof. Jinyang Xu*　　　　　　　　　　　　　　　　　　                        
