@@ -18,9 +18,9 @@ redirect_from:
 * I’m a disciplinary nomad, integrating disciplines like computer science, information science with fields like maufacturing technology, composite material structure. In terms of academic specialties, I spend a lot of my time in Computer-Aided Simulation Work, Programing Implementation for Fast Prototyping and Testing, and Verification through Machining Experiments. You could see my [background/research introduction PPT](http://zhengruitao.github.io/files/background_research_introduction.pdf)
 
 # Recent news
-* Dec. 2019. Nominated as the Outstanding Graduates of Shanghai!
+* Dec. 2019. Nominated as the <b>Outstanding Graduates of Shanghai</b>!
 * Dec. 2019. One paper was accepted to "Measurement" about Remaining Useful Life Prediction.
-* Sept. 2019. Thank Ministry of Education for the National Graduate Scholarship! Only six students in the same grade awared for the honor.
+* Sept. 2019. Thank Ministry of Education for the <b>National Graduate Scholarship</b>! Only six students in the same grade awared for the honor.
 * Sept. 2019. One paper was accepted to "The International Journal of Advanced Manufacturing Technology" about Tool Condition Monitoring.
 * Aug. 2019. One paper was accepted to "The Journal of Zhejiang University (ENGINEERING SCIENCE)" about High-precision calibration method for insulating coating thickness measurement of curved surface! This journal is indexed by EI.
 * Jul. 2019. One paper was accepted to "The Journal of Shanghai Jiao Tong University" about Support Vector Machine Regression for Eddy Current Distance Measurement! This journal is indexed by EI.
