@@ -15,7 +15,7 @@ redirect_from:
 * Click [here](http://zhengruitao.github.io/files/Resume_TZR.pdf) to view my up-to-state CV. If you would like to know more detailed information about me, please feel free to [contact me](https://zhengruitao.github.io/contact/).
 * Prior to starting my M.Sc., I received my B.Eng. in Mechanical Engineering from [Harbin Institute of Technology, WEIHAI](https://www.hitwh.edu.cn/) in 2017, ranked [2nd of 160](http://zhengruitao.github.io/files/Ranking_TZR.pdf) students for the first three years and graduated with a major GPA of 92.30 for four years!
 * <font color="#dd0000">I am looking for possible Ph.D. opportunity starting from 2020 Fall :)  !!!</font>
-* I’m a disciplinary nomad, integrating disciplines like computer science, information science with fields like maufacturing technology, composite material structure. In terms of academic specialties, I spend a lot of my time in Computer-Aided Simulation Work, Programing Implementation for Fast Prototyping and Testing, and Verification through Machining Experiments.
+* I’m a disciplinary nomad, integrating disciplines like computer science, information science with fields like maufacturing technology, composite material structure. In terms of academic specialties, I spend a lot of my time in Computer-Aided Simulation Work, Programing Implementation for Fast Prototyping and Testing, and Verification through Machining Experiments. You could see my [background/research introduction PPT](http://zhengruitao.github.io/files/background/research_introduction_PPT.pdf)
 
 # Recent news
 * Dec. 2019. Nominated as the Outstanding Graduates of Shanghai!
