@@ -7,11 +7,11 @@ author_profile: true
 ## Journals
 <b>[-[J1] A Novel Method for Tool Condition Monitoring Based on Long Short-Term Memory and Hidden Markov Model Hybrid Framework in High-Speed Milling Ti-6Al-4V](http://zhengruitao.github.io/publications/AMT)</b> <br> 
 <u><b>Zhengrui Tao </b></u>, Qinglong An, Gongyu Liu, Ming Chen <br> 
-<i>The International Journal of Advanced Manufacturing Technology (2019): 1-18.</i> 
+<i>International Journal of Advanced Manufacturing Technology 105 (2019) 3165-3182.</i> 
 
 <b>[- [J2] 曲面基体绝缘涂镀层涡流测厚高精度标定方法(High-precision calibration method for insulating coating thickness measurement of curved surface based on eddy current)](http://zhengruitao.github.io/publications/thickness_measurement)</b> <br> 
 <u><b>Zhengrui Tao </b></u>, Jiaqiang Dang, Jingyang Xu, Qinglong An, Ming Chen, Fei Ren, Li Wang<br> 
-<i>Accepted to the Journal of Zhejiang University(Engineering Science) in Chinese with English abstract.</i>
+<i>Accepted to the Journal of Zhejiang University (Engineering Science) in Chinese with English abstract.</i>
 
 <b>[- [J3] 基于支持向量机回归的曲面零件涡流测距标定方法(Eddy Current Distance Measurement Calibration Method for Curved Surface Parts Based on Support Vector Machine Regression)](http://zhengruitao.github.io/publications/distance_measurement)</b> <br> 
 <u><b>Zhengrui Tao</b></u>, Jiaqiang Dang, Jingyang Xu, Qinglong An, Ming Chen, Li Wang, Fei Ren<br> 
@@ -23,19 +23,20 @@ Qinglong An, Jie Chen, <u><b>Zhengrui Tao</b></u>, Weiwei Ming, Ming Chen <br>
 
 <b>- [J5] A Data-driven Model for Milling Tool Remaining Useful Life Prediction with Convolutional and Stacked LSTM Network.</b> <br> 
 Qinglong An<sup>&</sup>, <u><b>Zhengrui Tao<sup>&</sup></b></u>, Mohamed EL MANSORI, Xingwei Xu, Ming Chen (<sup>&</sup>co-first authors) <br>
-<i>Accepted to Measurement</i>
+<i>\Measurement 154 (2019) 107461</i>
 
-<b>- [J6] Experimental and Finite Element Analysis of the Formation Mechanism of Serrated Chips of Nickel-based Superalloy Inconel 718 (Under Review)</b> <br>
+<b>- [J6] Experimental study on the cooling/lubrication performance of dry and supercritical CO2-based minimum quantity lubrication in peripheral milling Ti-6Al-4V (Under Review)</b> <br> 
+Chongyan Cai, Xu Liang, Qinglong An, <u><b>Zhengrui Tao</b></u>, Weiwei Ming, Ming Chen <br>
+<i>International Journal of Precision Engineering and Manufacturing-Green Technology, (2020)</i>
+
+<b>- [J7] Experimental and Finite Element Analysis of the Formation Mechanism of Serrated Chips of Nickel-based Superalloy Inconel 718 (Under Review)</b> <br>
 Junli Li, <u><b>Zhengrui Tao</b></u>, Xiaojiang Cai, Qinglong An, Ming Chen <br>
 <i>Submitted to the International Advanced Manufacturing Technology</i>
 
-<b>- [J7] A Multimodal Based on Deep Learning and Multi-sensor Information Fusion for Monitoring and Diagnostics (Under Review)</b> <br>
+<b>- [J8] A Multimodal Based on Deep Learning and Multi-sensor Information Fusion for Monitoring and Diagnostics (Under Review)</b> <br>
 Xingwei Xu, <u><b>Zhengrui Tao</b></u>, Qinglong An, Ming Chen <br>
 <i>Submitted to Measurement</i>
 
-<b>- [J8] Experimental study on the cooling/lubrication performance of dry and supercritical CO2-based minimum quantity lubrication in peripheral milling Ti-6Al-4V (Under Review)</b> <br> 
-Chongyan Cai, Xu Liang, Qinglong An, <u><b>Zhengrui Tao</b></u>, Weiwei Ming, Ming Chen <br>
-<i>Submitted to the International Journal of Precision Engineering and Manufacturing-Green Technology</i>
 
 
 ## Conferences
