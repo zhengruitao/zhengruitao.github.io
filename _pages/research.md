@@ -48,7 +48,7 @@ proceed to iteratively update the structure and geometric parameters of the spec
   
 * ***<font color="#660000">Structural Design and Sealing Performance Analysis of Biomimetic Flexible Sealing Ring</font>***　　       
   * *RA, Supervised by Prof. Han Zhang*　　　　　　　　　　　　　　　　　　                        
-  * *Chendu, China; 09/2016 - 07/2017*
+  * *Chengdu, China; 09/2016 - 07/2017*
   * Designed a biomimetic sealing ring inspired by the functional surface of earthworm, which avoids rolling and distortion in
 dynamic sealing with with service life increased by **33.5**% and **47.9**% compared to O- and rectangular-ring
   * Selected the Mooney-Rivlin model to describe the mechanical characteristics of rubber linings, and established two-dimensional
