@@ -21,7 +21,7 @@ Algorithms to maximize the Material Removal Rate
   * [More details about Master's thesis](http://zhengruitao.github.io/files/Optimization_Slide.pdf)
   
 * ***<font color="#660000">Tool Condition Monitoring: Diagnostics, Prognostics, and Remaining Useful Life Prediction</font>***
-  * *RA, Supervised by Prof. Ming Chen & Prof. Mohamed EL Mansori*　　　　　　　           
+  * *RA, Supervised by [Prof. Ming Chen](http://me.sjtu.edu.cn/en/FullTimeTeacher/chenming.html) & [Prof. Mohamed EL Mansori](https://www.researchgate.net/profile/Mohamed_EL_Mansori)*
   * *Shanghai, China; 09/2018 - 09/2019*
   * <p align="center"><img src="https://zhengruitao.github.io/images/LSTM-HMM-scheme.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Developed a hybrid framework based on [LSTM](http://zhengruitao.github.io/images/LSTM.jpg) and [HMM](http://zhengruitao.github.io/images/GMM-HMM.jpg) capable of performing TCM during high-speed milling Ti-6Al-4V 
@@ -38,7 +38,7 @@ the temporal information, built multiple fully connected layers on the top of th
   * Journal papers: [J1]/[J5]/[J7]; Conference paper: [C2]
     
 * ***<font color="#660000">Research on Helical Milling Specialized Tool for CFRP/Titanium alloy</font>***
-  * *RA, Supervised by Prof. Jinyang Xu*　　　　　　　　　　　　　　　　　　                       
+  * *RA, Supervised by [Prof. Jinyang Xu](http://me.sjtu.edu.cn/en/FullTimeTeacher/xujinyang.html)*
   * *Shanghai, China; 09/2017 - 07/2018*
   * Designed a specialized helical milling tool with distributed multi-point front cutting edge, and evaluated the cutting performances with machined titanium alloy holes burr-free, CFRP holes without delimitation and the service life improved by **50**%
 and 35% compared to the traditional end mill
