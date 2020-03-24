@@ -8,7 +8,7 @@ author_profile: true
 Research
 ======
 * ***<font color="#660000">Virtual Machining System: Chatter Stability Analysis and Feed Rate Optimization</font>***
-  * *RA, Supervised by Prof. Ming Chen*                                                              
+  * *RA, Supervised by Prof. Ming Chen & [Prof. Qinglong An](http://me.sjtu.edu.cn/en/FullTimeTeacher/anqinglong.html)*  
   * *Shanghai, China; 09/2019 - Present*
   * <p align="center"><img src="https://zhengruitao.github.io/images/thesis_framework.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Established a Virtual Machining System specific to thin-wall workpieces, including chatter stability analysis and feed rate
