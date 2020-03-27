@@ -34,7 +34,7 @@ Technical Skills
 * Programming
   * C++/Python/MATLAB
 * Electronics/Mechanical
-  * Lathes, Mills, CNC Programing, Electron Microscopy (SEM, EDX)
+  * Lathes, Mills, CNC Programing, Electron Microscopy (SEM, EDS)
   * Instrumentation and Controls (LabVIEW, Simulink)
 * Personal
   * Badminton, Running
