@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: "Contact"
-excerpt: "zhu hanqing contact information"
+excerpt: "tao zhengrui contact information"
 permalink: /contact/
 author_profile: true
 ---
 ***Email:
-taozhengrui [at] sjtu.edu.cn; yorktao1996 [at] gmail.com***
+taozhengrui [at] 163.com; yorktao1996 [at] gmail.com***
 
 ***Address:
 No 800,Dongchuan Rd.,
