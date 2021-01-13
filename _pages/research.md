@@ -7,9 +7,18 @@ author_profile: true
 ---
 Research
 ======
+* ***<font color="#660000">Tool Performance Quick Evaluation System: Cutting parameters Analysis and Tool Life Prediction</font>***
+  * *RA, Supervised by [Prof. Ming Chen](http://me.sjtu.edu.cn/en/FullTimeTeacher/chenming.html) & [Prof. Qinglong An](http://me.sjtu.edu.cn/en/FullTimeTeacher/anqinglong.html)*  
+  * *Shanghai, China; 06/2020 - Present*
+  * <p align="center"><img src="https://zhengruitao.github.io/images/toollife-logo.png?raw=true" alt="Photo" style="width: 800px;"/></p>
+  * Established a tool performance Quick Evaluation System(TPQES), including cutting parameters analysis and tool life prediction, contributing to a **60**% reduction in evaluation time and **32**% increase in tool life for metal shell processing of 3C products
+  * Set-up of machine, tool and fixture in virtual machining module, got the cutting parameters along the cutting path, and obtained the  the most representative processing parameters
+  * Conducted cutting experiment with the above processing parameters, combined the measured wear amount with TPQES to derive the tool wear curve
+  * [More details about TPQES](http://zhengruitao.github.io/files/TPQES_Slide.pdf)
+  
 * ***<font color="#660000">Virtual Machining System: Chatter Stability Analysis and Feed Rate Optimization</font>***
-  * *RA, Supervised by Prof. Ming Chen & [Prof. Qinglong An](http://me.sjtu.edu.cn/en/FullTimeTeacher/anqinglong.html)*  
-  * *Shanghai, China; 09/2019 - Present*
+  * *RA, Supervised by [Prof. Ming Chen](http://me.sjtu.edu.cn/en/FullTimeTeacher/chenming.html) & [Prof. Qinglong An](http://me.sjtu.edu.cn/en/FullTimeTeacher/anqinglong.html)*  
+  * *Shanghai, China; 09/2019 - 05/2020*
   * <p align="center"><img src="https://zhengruitao.github.io/images/thesis_framework.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Established a Virtual Machining System specific to thin-wall workpieces, including chatter stability analysis and feed rate
 optimization, contributing to a **43**% reduction in average cycle time and **7.4**-fold improved surface finish for automotive
