@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zhengrui Tao's SITE"
 title_separator          : "-"
 name                     : &name "Zhengrui TAO"
-description              : &description "Postgraduate Student, Mechanical Engineering, Shanghai Jiao Tong University"
+description              : &description "Research Assistant, Mechanical Engineering, Shanghai Jiao Tong University"
 url                      : https://zhengruitao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhengruitao/zhengruitao.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Zhengrui TAO"
   avatar           : "taozhengrui_WAIC.jpg"
-  bio              : "Graduate student, Shanghai Jiao Tong University"
+  bio              : "Research Assistant, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
