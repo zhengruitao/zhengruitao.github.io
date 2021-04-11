@@ -11,7 +11,7 @@ author_profile: true
 
 <b>- [J2] A Data-driven Model for Milling Tool Remaining Useful Life Prediction with Convolutional and Stacked LSTM Network.</b> <br> 
 Qinglong An<sup>&</sup>, <u><b>Zhengrui Tao<sup>&</sup></b></u>, Xingwei Xu, Mohamed EL MANSORI (<sup>&</sup>co-first authors) <br>
-<i>\Measurement, 154 (2020): 107461.</i>
+<i>Measurement, 154 (2020): 107461.</i>
 
 <b>- [J3 Experimental and Finite Element Analysis of the Formation Mechanism of Serrated Chips of Nickel-based Superalloy Inconel 718 (Under Review)</b> <br>
 Junli Li, <u><b>Zhengrui Tao</b></u>, Xiaojiang Cai, Qinglong An, Ming Chen <br>
