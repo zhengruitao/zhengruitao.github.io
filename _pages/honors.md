@@ -5,7 +5,7 @@ excerpt: "Zhengrui tao honors"
 permalink: /honors/
 author_profile: true
 ---
-* ***<font color="#660000">Outstanding Graduate</font>***<font color="#660000">, Shanghai, 2019</font><br>
+* ***<font color="#660000">Outstanding Graduate</font>***<font color="#660000">, Shanghai, 2020</font><br>
 * ***<font color="#660000">National Graduate Scholarship</font>***<font color="#660000">, Nation-wide, 2019</font>
 * ***<font color="#660000">The Sandvik Coromant Scholarship</font>***<font color="#660000">, Sandvik Coromant Company, 2018</font>
 * ***<font color="#660000">The Best Poster Award of 8th International Conference of High-Speed Machining</font>***<font color="#660000">, 2018</font>
