@@ -13,7 +13,6 @@ Research
   * <p align="center"><img src="https://zhengruitao.github.io/images/original_VS_wear.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Utilized CCD camera to shoot the flank face of the cutting tool, determined the wear boundaries, and got the area and the perimeter of the wear region
   * Extracted region of interest through image preprocessing, threshold segmentation, regiongrowing, and edge detection based on the Canny operator
-  * [Code](http://zhengruitao.github.io/files/wear_band_sementation.mlx)
 
 * ***<font color="#660000">Tool Performance Quick Evaluation System: Cutting parameters Analysis and Tool Life Prediction</font>***
   * *RA, Supervised by [Prof. Ming Chen](http://me.sjtu.edu.cn/en/FullTimeTeacher/chenming.html) & [Prof. Qinglong An](http://me.sjtu.edu.cn/en/FullTimeTeacher/anqinglong.html)*  
