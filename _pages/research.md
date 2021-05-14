@@ -10,7 +10,7 @@ Research
 * ***<font color="#660000">Wear Band Segmentation</font>***
   * *RA, Supervised by [Prof. Ming Chen](http://me.sjtu.edu.cn/en/FullTimeTeacher/chenming.html) & [Prof. Qinglong An](http://me.sjtu.edu.cn/en/FullTimeTeacher/anqinglong.html)*  
   * *Shanghai, China; 12/2020 - 03/2021*
-  * <p align="center"><img src="https://zhengruitao.github.io/images/original_VS_wear.tif?raw=true" alt="Photo" style="width: 800px;"/></p>
+  * <p align="center"><img src="https://zhengruitao.github.io/images/original_VS_wear.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Utilized CCD camera to shoot the flank face of the cutting tool, determined the wear boundaries, and got the area and the perimeter of the wear region
   * Extracted region of interest through image preprocessing, threshold segmentation, regiongrowing, and edge detection based on the Canny operator
   * [Code](http://zhengruitao.github.io/files/wear_band_sementation.mlx)
