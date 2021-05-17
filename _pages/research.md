@@ -76,7 +76,7 @@ stress and contact stress
   * *RA, Supervised by [Prof. Jian Wu](http://homepage.hit.edu.cn/wujianwh)*　　　　　　　　　　　　　　　　　                            
   * *Weihai, China; 12/2014 - 07/2015* 
   * <p align="center"><img src="https://zhengruitao.github.io/images/prototype_device.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
-  * * <p align="center"><img src="https://zhengruitao.github.io/images/working_mechanism.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
+  * <p align="center"><img src="https://zhengruitao.github.io/images/working_mechanism.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Developed a Non-Explosive separation device to connect the launch vehicle and small satellite reliably and release the connection rapidly, and adopted divided nuts to the connect and separate bolt, the four-bar mechanism to control the movement of releasing clamps (divided nuts), eight circumferentially distributed balls to lock the device, and the dual redundant DCmotors to unlock the device
   *  Generated Solidworks model, drawing and assemblies for the device, verified the bearing capacity by simulation and conducted the pre-stress modal analysis to avoid unlocking mistakenly by external vibration excitation in ANSYS, and simulated the unlocking and separation process by ADAMS
   * Manufactured, assembled the parts, and tested the device's separation time and reliability in vacuum and low temperature environment
@@ -108,6 +108,8 @@ Projects
 * ***<font color="#660000">Angle Measuring Platform for Fully Articulated Main Hub of Helicopter Rotor Systems</font>***
   * *Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                            
   * *Weihai, China; 05/2015 - 09/2016* 
+  * <p align="center"><img src="https://zhengruitao.github.io/images/Over_sytem.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
+  * <p align="center"><img src="https://zhengruitao.github.io/images/Work_flow.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Developed a platform to measure three angle parameters range for fully articulated main hub, which allows each blade to lead/lag (move back and forth in-plane), flap (move up and down about an inboard-mounted hinge), and feather (rotate about the pitch axis) independent of the other blades, implemented control system including user interface and query function, and reduced the whole measuring process from 3 hours to 40 minutes.
   * Analyzed the statics and kinematics of the drive mechanism using ANSYS and MATLAB, solved the stress of the main components and the coupling relationship between three angles, which iteratively update the design parameters to guarantee the structural strength of the platform, cover the required angle ranges and position accurately at specific angles
   * [More details](http://zhengruitao.github.io/files/Testing_Platform_Slide.pdf)
