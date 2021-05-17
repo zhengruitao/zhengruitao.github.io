@@ -75,11 +75,10 @@ stress and contact stress
 * ***<font color="#660000">Research and Development of Low-Shock Non-Explosive Separation Device</font>***                     
   * *RA, Supervised by [Prof. Jian Wu](http://homepage.hit.edu.cn/wujianwh)*　　　　　　　　　　　　　　　　　                            
   * *Weihai, China; 12/2014 - 07/2015* 
-  * Developed a Non-Explosive separation device to connect the launch vehicle and small satellite reliably and release the connection rapidly, and adopted divided nuts to the connect and separate bolt, the four-bar mechanism to control the movement
-of releasing clamps (divided nuts), eight circumferentially distributed balls to lock the device, and the dual redundant DC
-motors to unlock the device
-  *  Generated Solidworks model, drawing and assemblies for the device, verified the bearing capacity by simulation and conducted the pre-stress modal analysis to avoid unlocking mistakenly by external vibration excitation in ANSYS, and simulated
-the unlocking and separation process by ADAMS
+  * <p align="center"><img src="https://zhengruitao.github.io/images/prototype_device.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
+  * * <p align="center"><img src="https://zhengruitao.github.io/images/working_mechanism.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
+  * Developed a Non-Explosive separation device to connect the launch vehicle and small satellite reliably and release the connection rapidly, and adopted divided nuts to the connect and separate bolt, the four-bar mechanism to control the movement of releasing clamps (divided nuts), eight circumferentially distributed balls to lock the device, and the dual redundant DCmotors to unlock the device
+  *  Generated Solidworks model, drawing and assemblies for the device, verified the bearing capacity by simulation and conducted the pre-stress modal analysis to avoid unlocking mistakenly by external vibration excitation in ANSYS, and simulated the unlocking and separation process by ADAMS
   * Manufactured, assembled the parts, and tested the device's separation time and reliability in vacuum and low temperature environment
 
 Projects
