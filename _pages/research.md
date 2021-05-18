@@ -108,7 +108,7 @@ Projects
 * ***<font color="#660000">Angle Measuring Platform for Fully Articulated Main Hub of Helicopter Rotor Systems</font>***
   * *Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                            
   * *Weihai, China; 05/2015 - 09/2016* 
-  * <p align="center"><img src="https://zhengruitao.github.io/images/Over_sytem.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
+  * <p align="center"><img src="https://zhengruitao.github.io/images/Over_system.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * <p align="center"><img src="https://zhengruitao.github.io/images/Work_flow.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Developed a platform to measure three angle parameters range for fully articulated main hub, which allows each blade to lead/lag (move back and forth in-plane), flap (move up and down about an inboard-mounted hinge), and feather (rotate about the pitch axis) independent of the other blades, implemented control system including user interface and query function, and reduced the whole measuring process from 3 hours to 40 minutes.
   * Analyzed the statics and kinematics of the drive mechanism using ANSYS and MATLAB, solved the stress of the main components and the coupling relationship between three angles, which iteratively update the design parameters to guarantee the structural strength of the platform, cover the required angle ranges and position accurately at specific angles
