@@ -98,13 +98,7 @@ Projects
   * Planned the processing technology referring to bar turning, in which the eddy current displacement sensor determines the radial depth of cut, and the robot arm carries the end-actuator back and forth when the tank rotates around the axis
   * [More details](http://zhengruitao.github.io/files/End_actuator_Slide.pdf)
 
-* ***<font color="#660000">Analysis and Experimental Study on Contact Characteristics of Aviation Sealing Profile</font>***
-  * *Supervised by Prof. Jinyang Xu*　　　　　　　　　　　　　　　　　　                        
-  * *Shanghai, China; 11/2016 - 03/2017*
-  * [Mirco surface morphology](http://zhengruitao.github.io/images/surface_morphology.tif) of the sealing profile is obtained by OLYMPUS optical digital microscope. Fractal characteristics were studied based on the structural function and fractal parameters were obtained The V-M function was employed to characterize the fractal surface, and the fractal contact model was established based on the single asperity contact model and area distribution function
-  * A muliti-scale contact model of the sealing profile is developed based on the [finite element model](http://zhengruitao.github.io/images/compress_in_depth.jpg), and the contact characteristics of sealing profile in complex environment were studied: [micro particles](http://zhengruitao.github.io/images/micro_particles.tif) and [aging of material](http://zhengruitao.github.io/images/aging_of_material.tif)
-  * Macro and micro contact characteristics of an aviation seal profile are investigated  by theoretical analysis, numerical simulation and experimental testing. And a new method for calculating the real contact area is proposed by coupling the theory and finite element method, which provides a reference for the design and application of seals
-  
+
 * ***<font color="#660000">Angle Measuring Platform for Fully Articulated Main Hub of Helicopter Rotor Systems</font>***
   * *Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                            
   * *Weihai, China; 05/2015 - 09/2016* 
