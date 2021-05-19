@@ -29,7 +29,7 @@ Research
   * *Shanghai, China; 09/2019 - 05/2020*
   * <p align="center"><img src="https://zhengruitao.github.io/images/thesis_framework.jpg?raw=true" alt="Photo" style="width: 800px;"/></p>
   * Established a Virtual Machining System specific to thin-wall workpieces, including chatter stability analysis and feed rate
-optimization, contributing to a **43**% reduction in average cycle time and **7.4**-fold improved surface finish for automotive
+optimization, contributing to a **11.2**% reduction in average cycle time and **7.4**-fold improved surface finish for automotive
 engine turbine machining
   * Established milling dynamics model considering regenerative chatter, and got [Stability Lobe Diagram](http://zhengruitao.github.io/images/SLD.jpg) using the zero-order frequency domain solution of which the relative transfer function includes the modal parameters of tool and workpiece
   * Obtained the cutter-workpiece engagement area by geometric simulation, utilized the Boolean operation to extract geometrical
@@ -67,10 +67,10 @@ proceed to iteratively update the structure and geometric parameters of the spec
   * *RA, Supervised by Prof. Han Zhang*　　　　　　　　　　　　　　　　　　                        
   * *Chengdu, China; 09/2016 - 07/2017*
   * Designed a biomimetic sealing ring inspired by the functional surface of earthworm, which avoids rolling and distortion in
-dynamic sealing with with service life increased by **33.5**% and **47.9**% compared to O- and rectangular-ring
-  * Selected the Mooney-Rivlin model to describe the mechanical characteristics of rubber linings, and established two-dimensional
-axisymmetric FEM of the biomimetic ring, groove, and slide bar based on the actual sealing setting to analyze Von-Mises
-stress and contact stress
+dynamic sealing with service life increased by **33.5**% and **47.9**% compared to O- and rectangular-ring
+  * Selected the Mooney-Rivlin model to describe the mechanical characteristics of rubber, and established two-dimensional
+axisymmetric FEM of the biomimetic ring, groove, and slide bar based on the actual setting to analyze Von-Mises
+stress and contact stress (based on plain strain assumption)
 
 * ***<font color="#660000">Research and Development of Low-Shock Non-Explosive Separation Device</font>***                     
   * *RA, Supervised by [Prof. Jian Wu](http://homepage.hit.edu.cn/wujianwh)*　　　　　　　　　　　　　　　　　                            
@@ -97,7 +97,6 @@ Projects
   * Proposed a collaboration method based on Support Vector Machine Regression to minimize the distance measurement error and used radial basis neural networks to compensate for the errors in different distance intervals
   * Planned the processing technology referring to bar turning, in which the eddy current displacement sensor determines the radial depth of cut, and the robot arm carries the end-actuator back and forth when the tank rotates around the axis
   * [More details](http://zhengruitao.github.io/files/End_actuator_Slide.pdf)
-
 
 * ***<font color="#660000">Angle Measuring Platform for Fully Articulated Main Hub of Helicopter Rotor Systems</font>***
   * *Supervised by Prof. Jian Wu*　　　　　　　　　　　　　　　　　                            
